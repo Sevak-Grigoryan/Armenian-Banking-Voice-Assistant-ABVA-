@@ -1,0 +1,26 @@
+============================================================
+ARMENIAN BANK VOICE ASSISTANT - EVALUATION SUMMARY
+============================================================
+Model: gemini-2.5-flash-native-audio-latest
+Total: 49 | Success: 49 | Errors: 0
+
+--- OVERALL SCORES (1-5) ---
+  Relevance:        4.67
+  Accuracy:         4.45
+  Armenian Quality: 4.73
+  Conciseness:      4.47
+
+--- PERFORMANCE ---
+  Avg response time:       19.39s
+  Avg first audio latency: 5.17s
+
+--- GUARDRAILS ---
+  Out-of-scope: 10/10 correctly refused
+
+--- BY CATEGORY ---
+  branches       : rel=4.58 acc=3.92 hy=4.25 conc=4.17 lat=22.65s (n=12)
+  credits        : rel=4.93 acc=4.33 hy=4.8 conc=4.2 lat=23.36s (n=15)
+  deposits       : rel=4.17 acc=4.67 hy=4.92 conc=4.67 lat=17.82s (n=12)
+  out_of_scope   : rel=5.0 acc=5.0 hy=5.0 conc=5.0 lat=11.39s (n=10)
+
+============================================================

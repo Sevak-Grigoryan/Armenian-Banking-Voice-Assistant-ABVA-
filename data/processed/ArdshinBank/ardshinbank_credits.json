@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ardshinbank_credits_001",
+    "bank_name": "Ardshinbank",
+    "topic": "credits",
+    "subcategory": "category",
+    "title": "Անգրավ",
+    "content": "Անգրավ",
+    "metadata": {},
+    "source_url": "https://ardshinbank.am/for-you/loans-ardshinbank?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "ardshinbank_credits_002",
+    "bank_name": "Ardshinbank",
+    "topic": "credits",
+    "subcategory": "category",
+    "title": "Կանխիկով ապահովված վարկեր",
+    "content": "Կանխիկով ապահովված վարկեր",
+    "metadata": {},
+    "source_url": "https://ardshinbank.am/for-you/loans-ardshinbank?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "ardshinbank_credits_003",
+    "bank_name": "Ardshinbank",
+    "topic": "credits",
+    "subcategory": "category",
+    "title": "Անշարժ գույքի գրավադրմամբ",
+    "content": "Անշարժ գույքի գրավադրմամբ",
+    "metadata": {},
+    "source_url": "https://ardshinbank.am/for-you/loans-ardshinbank?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "ardshinbank_credits_004",
+    "bank_name": "Ardshinbank",
+    "topic": "credits",
+    "subcategory": "category",
+    "title": "Հատուկ պետական ծրագրեր",
+    "content": "Հատուկ պետական ծրագրեր",
+    "metadata": {},
+    "source_url": "https://ardshinbank.am/for-you/loans-ardshinbank?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "ardshinbank_credits_005",
+    "bank_name": "Ardshinbank",
+    "topic": "credits",
+    "subcategory": "category",
+    "title": "Ոսկու գրավադրմամբ",
+    "content": "Ոսկու գրավադրմամբ",
+    "metadata": {},
+    "source_url": "https://ardshinbank.am/for-you/loans-ardshinbank?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "ardshinbank_credits_006",
+    "bank_name": "Ardshinbank",
+    "topic": "credits",
+    "subcategory": "loan",
+    "title": "Ոսկու գրավադրմամբ",
+    "content": "Վարկերը տրամադրվում են ՀՀ քաղաքացի ֆիզիկական անձանց\nԱռավելագույն գումար մինչև 50.000.000 ՀՀ դրամ\nՎարկի ժամկետ՝ 36-120 ամիս\nՏոկոսադրույք՝ 8 - 20%\nՏարեկան փաստացի առավելագույն տոկոսադրույք՝ 9.37 - 23.26%\nԱվելին",
+    "metadata": {
+      "currency": "ՀՀ դրամ",
+      "amount": "50.000.000 ՀՀ դրամ",
+      "term": "36-120 ամիս",
+      "interest_rate": "8 - 20%",
+      "actual_interest_rate": "9.37 - 23.26%"
+    },
+    "source_url": "https://ardshinbank.am/for-you/loans-ardshinbank?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "ardshinbank_credits_007",
+    "bank_name": "Ardshinbank",
+    "topic": "credits",
+    "subcategory": "loan",
+    "title": "Ոսկու գրավադրմամբ",
+    "content": "Վարկերը տրամադրվում են ՀՀ քաղաքացի ֆիզիկական անձանց\nԱռավելագույն գումար մինչև 12.000.000 ՀՀ դրամ\nՎարկի ժամկետ՝ 36-120 ամիս\nՏոկոսադրույք՝ 13 - 20.9%\nԱվելին",
+    "metadata": {
+      "currency": "ՀՀ դրամ",
+      "amount": "12.000.000 ՀՀ դրամ",
+      "term": "36-120 ամիս",
+      "interest_rate": "13 - 20.9%",
+      "actual_interest_rate": null
+    },
+    "source_url": "https://ardshinbank.am/for-you/loans-ardshinbank?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  }
+]

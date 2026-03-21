@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ardshinbank_deposits_001",
+    "bank_name": "Ardshinbank",
+    "topic": "deposits",
+    "subcategory": "deposit_category",
+    "title": "Բանկային ավանդ",
+    "content": "Ավանդ | Բանկային ավանդ\nՁեզ համար\nՁեր բիզնեսի համար\nՍտատուս | Պլյուս\nԱրդշինբանկի մասին\nՄասնաճյուղեր և բանկոմատներ\nՀերթի ամրագրում\nԿապ\nՀայերեն\nԱվանդներ\nՆերդրումներ\nՔարտեր\nՎարկեր\nԱյլ\ni-Banking\nՀայերեն\nԱվանդ\nԿատարե՛ք խնայողություններ, ապահովե՛ք բարձր և կայուն եկամուտներ\nԴառնալ հաճախորդ\nՁԵՎԱԿԵՐՊՈՒՄ\nՁեր հաշվում առկա միջոցների նկատմամբ տոկոսագումարները հաշվարկվում են անվանական տոկոսադրույքի հիման վրա: Իսկ տարեկան տոկոսային եկամտաբերությունը ցույց է տալիս, թե որքան եկամուտ կստանայիք Դուք, եթե Ձեր ավանդի դիմաց ստացված տոկոսագումարները վերաներդնեիք ավանդի տեսքով:\nԺամկետի վերջում\narrow_drop_down\nԺամկետի վերջում\nԵռամսյա վճարմամբ\nԱմենամսյա վճարմամբ\nԺամկետի վերջում: ավելացման իրավունքով\nchevron_left\nchevron_right\nԱռանց ավելացման իրավունքի: տոկոսները ժամկետի վերջում վճարմամբ\nԺամկետ\nAMD\nUSD\nEUR\nRUB\nմինչև 100 մլն ՀՀ դրամ ներառյալ\nմինչև 200,000 ԱՄՆ դոլար ներառյալ\nմինչև 200,000 եվրո ներառյալ\nմինչև 10 մլն ռուբլի ներառյալ\n31 - 90 օր\n5.75% (5.72%)\n0.25% (0.25%)\n-\n3.0% (2.98%)\n91- 180 օր\n6.75% (6.71%)\n1.25% (1.24%)\n0.5% (0.497%)\n4.0% (3.98%)\n181- 270 օր\n7.50% (7.46%)\n2.50% (2.49%)\n1.25% (1.243%)\n5.0% (4.97%)\n271- 366 օր\n7.75% (7.71%)\n3.00% (2.98%)\n1.5% (1.492%)\n5.0% (4.97%)\n367- 549 օր\n8.25% (8.20%)\n3.5% (3.48%)\n2.0% (1.989%)\n6.0% (5.97%)\n550- 730 օր\n9.0% (8.95%)\n3.75% (3.73%)\n2.25% (2.238%)\n5.75% (5.72%)\nՓակագծերում ներկայացված է ավանդի տարեկան տոկոսային եկամտաբերությունը։",
+    "metadata": {
+      "currencies": [
+        "ՀՀ դրամ",
+        "ԱՄՆ դոլար",
+        "Եվրո",
+        "Ռուբլի"
+      ],
+      "max_amount_amd": "100 մլն ՀՀ դրամ",
+      "max_amount_usd": "200,000 ԱՄՆ դոլար",
+      "max_amount_eur": "200,000 եվրո",
+      "max_amount_rub": "10 մլն ռուբլի"
+    },
+    "source_url": "https://ardshinbank.am/for-you/avand?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "ardshinbank_deposits_002",
+    "bank_name": "Ardshinbank",
+    "topic": "deposits",
+    "subcategory": "deposit_term_row",
+    "title": "Ավանդ 31 - 90 օր",
+    "content": "31 - 90 օր 5.75% (5.72%) 0.25% (0.25%) - 3.0% (2.98%)",
+    "metadata": {
+      "term": "31 - 90 օր",
+      "raw_row": "31 - 90 օր 5.75% (5.72%) 0.25% (0.25%) - 3.0% (2.98%)",
+      "amd_nominal_rate": "5.75%",
+      "amd_apy": "5.72%",
+      "usd_nominal_rate": "0.25%",
+      "usd_apy": "0.25%",
+      "eur_nominal_rate": null,
+      "eur_apy": null,
+      "rub_nominal_rate": "3.0%",
+      "rub_apy": "2.98%"
+    },
+    "source_url": "https://ardshinbank.am/for-you/avand?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "ardshinbank_deposits_003",
+    "bank_name": "Ardshinbank",
+    "topic": "deposits",
+    "subcategory": "deposit_term_row",
+    "title": "Ավանդ 91- 180 օր",
+    "content": "91- 180 օր 6.75% (6.71%) 1.25% (1.24%) 0.5% (0.497%) 4.0% (3.98%)",
+    "metadata": {
+      "term": "91- 180 օր",
+      "raw_row": "91- 180 օր 6.75% (6.71%) 1.25% (1.24%) 0.5% (0.497%) 4.0% (3.98%)",
+      "amd_nominal_rate": "6.75%",
+      "amd_apy": "6.71%",
+      "usd_nominal_rate": "1.25%",
+      "usd_apy": "1.24%",
+      "eur_nominal_rate": "0.5%",
+      "eur_apy": "0.497%",
+      "rub_nominal_rate": "4.0%",
+      "rub_apy": "3.98%"
+    },
+    "source_url": "https://ardshinbank.am/for-you/avand?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "ardshinbank_deposits_004",
+    "bank_name": "Ardshinbank",
+    "topic": "deposits",
+    "subcategory": "deposit_term_row",
+    "title": "Ավանդ 181- 270 օր",
+    "content": "181- 270 օր 7.50% (7.46%) 2.50% (2.49%) 1.25% (1.243%) 5.0% (4.97%)",
+    "metadata": {
+      "term": "181- 270 օր",
+      "raw_row": "181- 270 օր 7.50% (7.46%) 2.50% (2.49%) 1.25% (1.243%) 5.0% (4.97%)",
+      "amd_nominal_rate": "7.50%",
+      "amd_apy": "7.46%",
+      "usd_nominal_rate": "2.50%",
+      "usd_apy": "2.49%",
+      "eur_nominal_rate": "1.25%",
+      "eur_apy": "1.243%",
+      "rub_nominal_rate": "5.0%",
+      "rub_apy": "4.97%"
+    },
+    "source_url": "https://ardshinbank.am/for-you/avand?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "ardshinbank_deposits_005",
+    "bank_name": "Ardshinbank",
+    "topic": "deposits",
+    "subcategory": "deposit_term_row",
+    "title": "Ավանդ 271- 366 օր",
+    "content": "271- 366 օր 7.75% (7.71%) 3.00% (2.98%) 1.5% (1.492%) 5.0% (4.97%)",
+    "metadata": {
+      "term": "271- 366 օր",
+      "raw_row": "271- 366 օր 7.75% (7.71%) 3.00% (2.98%) 1.5% (1.492%) 5.0% (4.97%)",
+      "amd_nominal_rate": "7.75%",
+      "amd_apy": "7.71%",
+      "usd_nominal_rate": "3.00%",
+      "usd_apy": "2.98%",
+      "eur_nominal_rate": "1.5%",
+      "eur_apy": "1.492%",
+      "rub_nominal_rate": "5.0%",
+      "rub_apy": "4.97%"
+    },
+    "source_url": "https://ardshinbank.am/for-you/avand?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "ardshinbank_deposits_006",
+    "bank_name": "Ardshinbank",
+    "topic": "deposits",
+    "subcategory": "deposit_term_row",
+    "title": "Ավանդ 367- 549 օր",
+    "content": "367- 549 օր 8.25% (8.20%) 3.5% (3.48%) 2.0% (1.989%) 6.0% (5.97%)",
+    "metadata": {
+      "term": "367- 549 օր",
+      "raw_row": "367- 549 օր 8.25% (8.20%) 3.5% (3.48%) 2.0% (1.989%) 6.0% (5.97%)",
+      "amd_nominal_rate": "8.25%",
+      "amd_apy": "8.20%",
+      "usd_nominal_rate": "3.5%",
+      "usd_apy": "3.48%",
+      "eur_nominal_rate": "2.0%",
+      "eur_apy": "1.989%",
+      "rub_nominal_rate": "6.0%",
+      "rub_apy": "5.97%"
+    },
+    "source_url": "https://ardshinbank.am/for-you/avand?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "ardshinbank_deposits_007",
+    "bank_name": "Ardshinbank",
+    "topic": "deposits",
+    "subcategory": "deposit_term_row",
+    "title": "Ավանդ 550- 730 օր",
+    "content": "550- 730 օր 9.0% (8.95%) 3.75% (3.73%) 2.25% (2.238%) 5.75% (5.72%)",
+    "metadata": {
+      "term": "550- 730 օր",
+      "raw_row": "550- 730 օր 9.0% (8.95%) 3.75% (3.73%) 2.25% (2.238%) 5.75% (5.72%)",
+      "amd_nominal_rate": "9.0%",
+      "amd_apy": "8.95%",
+      "usd_nominal_rate": "3.75%",
+      "usd_apy": "3.73%",
+      "eur_nominal_rate": "2.25%",
+      "eur_apy": "2.238%",
+      "rub_nominal_rate": "5.75%",
+      "rub_apy": "5.72%"
+    },
+    "source_url": "https://ardshinbank.am/for-you/avand?lang=hy",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  }
+]

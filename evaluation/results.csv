@@ -1,0 +1,564 @@
+﻿id,category,question,answer,thinking,latency_s,first_audio_s,audio_bytes,relevance,accuracy,armenian_quality,conciseness,guardrail,comment
+1,credits,Արդշինբանկը ինչ տեսակի վարկեր է առաջարկում?,"«Արդշինբանկ»-ը առաջարկում է վարկերի մի շարք տեսակներ՝ անգրավ, կանխիկով ապահովված, անշարժ գույքի գրավադրմամբ, հատուկ պետական ծրագրեր և ոսկու գրավադրմամբ։ Ոսկու գրավադրմամբ վարկերի դեպքում՝ մինչև հիսուն միլիոն հայկական դրամ երեսունվեց - հարյուրքսան ամիս ժամկետով, տոկոսադրույքը՝ ութ դռոբ քսան տոկոս, փաստացի տոկոսադրույքը՝ ինն ամբողջ կետ երեսունյոթ դռոբ քսաներեք կետ քսանվեց տոկոս։ Կա նաև տասներկու միլիոն հայկական դրամ գումարով, երեսունվեց - հարյուրքսան ամիս ժամկետով վարկ՝ տոկոսադրույքը՝ տասներեք դռոբ քսան կետ ինը տոկոս։","**Analyzing Loan Types**
+
+I've determined Ardshinbank offers a diverse loan portfolio, including unsecured, cash-collateralized, real estate-backed, and state program loans. I've focused on gold collateralized loans, which merit detailed examination, and identified specific offerings. I am now working on extracting the interest rates, terms, and currency details for the gold-backed loans as per the requirements.
+
+
+ **Examining Loan Details**
+
+Արդեն վերլուծել եմ Արդշինբանկի կողմից առաջարկվող վարկատեսակները՝ անգրավ, կանխիկով ապահովված, անշարժ գույքի գրավադրմամբ և հատուկ պետական ծրագրեր։ Առանձնացրել եմ ոսկու գրավադրմամբ վարկերը և սկսել եմ մանրամասն ներկայացնել դրանց տոկոսադրույքները, ժամկետները և արժույթները՝ համաձայն տվյալների։",41.04,4.76,1741440,5,4,3,3,n/a,"The answer is highly relevant, listing loan types and providing specific details. However, the pronunciation/formatting of decimal numbers using 'դռոբ' (slash) for interest rates is unnatural and confusing for spoken Armenian. The answer also provides a bit too much detailed information for a general 'what types of loans' question in a voice interaction, affecting conciseness."
+2,credits,Ինչ տոկոսադրույքով է հիփոթեքային վարկը Մելլաթ Բանկում?,"Մելլաթ Բանկում հիփոթեքային վարկի տոկոսադրույքը կազմում է 12-ից 15 տոկոս, ժամկետը՝ 12-ից 240 ամիս, իսկ արժույթը՝ հայկական դրամ։ Առավելագույն գումարը 250 միլիոն հայկական դրամ է։","**Determining Interest Rate**
+
+I've located the relevant data for mortgage loans at Mellat Bank. The Armenian script confirms the interest rate is 12-15%, the loan term is 12-240 months, and the currency is AMD. I'm now drafting the response in Armenian, including all these details, per the established guidelines.
+
+
+ **Confirming Loan Parameters**
+
+I've verified the mortgage loan details within the Mellat Bank data. The Armenian script confirms the interest rate is 12-15%, the loan term is 12-240 months, and the currency is AMD. I'm now structuring the Armenian response, adhering to established guidelines. I'll include all of the key details.",19.44,5.04,685440,5,4,5,4,n/a,"The assistant directly answers the interest rate question and also provides useful, related additional information about the mortgage loan terms. The Armenian is natural and grammatically correct."
+3,credits,Արցախբանկում ուսանողական վարկ կա՞:,"Այո, «Արցախբանկ»-ում կան ուսանողական վարկեր։ Կա՛մ սովորական ուսանողական վարկ՝ հայկական դրամ արժույթով, մինչև յոթ տարի ժամկետով և սկսած տասնհինգ տոկոս տոկոսադրույքով, կա՛մ պետական ծրագրով ուսանողական վարկ՝ նույնպես հայկական դրամով, մինչև տասը տարի ժամկետով և մինչև յոթ տոկոս տոկոսադրույքով։","**Investigating Armenian Loan Options**
+
+I've determined the user is inquiring about student loans (""ուսանողական վարկ"") at Artsakhbank. My search returned two options: standard student loans (up to 7 years, starting at 15% interest in AMD) and state program loans (up to 10 years, up to 7% interest in AMD). I'm structuring a response outlining both loan types with their relevant details.
+
+
+ **Refining Loan Details**
+
+I'm now formulating a detailed response in Armenian. I've translated the key details for both loan types: standard and state-program. The response emphasizes the currency (AMD), loan duration (up to 7 or 10 years), and the respective interest rates. I'm aiming for a concise and conversational tone. I've found there are two options with different terms.
+
+
+ **Finalizing the Armenian Response**
+
+I've translated and refined the response further. I've double-checked the Armenian phrasing for clarity and grammatical correctness, focusing on conversational flow. The loan information has been broken down for ease of understanding, covering standard and state-program options with currency, terms, and interest. The response has been kept concise, as I had planned.
+
+
+ **Confirming Artsakhbank Loan Details**
+
+I've confirmed the existence of student loans at Artsakhbank, specifically ""ուսանողական վարկ"". I've found two distinct options: standard and state-program, each with key details. The final response structure includes currency, term length, and interest rates for each loan type. I'm satisfied.",26.13,6.89,923520,5,4,5,4,n/a,"The assistant directly answers the question, confirming the availability of student loans and providing key details for two different types of loans. The Armenian is natural and grammatically correct. The answer is appropriately detailed for a voice assistant."
+4,credits,Որքան է ավտովարկի առավելագույն գումարը Մելլաթ Բանկում?,"Մելլաթ Բանկում ավտովարկի առավելագույն գումարը կազմում է տասներկու միլիոն հայկական դրամ, տասներկուից վաթսուն ամիս ժամկետով, տոկոսադրույքը՝ տասնվեցից տասնութ տոկոս։","**Determining Maximum Loan Amount**
+
+I've successfully located the car loan (`Ավտովարկ`) information at Mellat Bank (`Մելլաթ Բանկ`). The maximum loan amount is 12,000,000 ՀՀ դրամ. The term extends from 12-60 ամիս, with an interest rate of 16-18%. I'm now structuring the response in Armenian.",14.66,3.35,543360,5,5,5,4,n/a,"The answer directly provides the requested maximum loan amount. It also adds relevant, concise details about the loan term and interest rate, which is helpful context. The Armenian is natural and grammatically correct."
+5,credits,Ինչ ժամկետով է տրամադրվում սպառողական վարկը Արդշինբանկում?,Տրամադրված տվյալներում Արդշինբանկի սպառողական վարկի ժամկետի մասին տեղեկատվություն չկա։,"**Investigating Loan Terminology**
+
+I'm currently focused on determining the correct Armenian term (ժամկետ) for ""term"" within the context of consumer loans (սպառողական վարկ) at Արդշինբանկ. My initial search through available data didn't immediately yield specific term lengths for different loan types like unsecured, cash-collateralized, or real estate loans; I have to keep digging.
+
+
+ **Clarifying Loan Specifics**
+
+I've refined my search within the Արդշինբանկ data, concentrating on loan types akin to a general ""consumer loan"". My analysis now highlights that while I can't pinpoint a general term for all consumer loans (սպառողական վարկ), I did find specific terms associated with a ""Ոսկու գրավադրմամբ"" loan (36-120 months). I've confirmed that term lengths for unsecured, cash-collateralized and real estate loans are not present in the data.
+
+
+ **Determining Missing Information**
+
+I've exhausted the Արդշինբանկ data trying to define the 'ժամկետ' for consumer loans. It seems the general term for 'սպառողական վարկ' isn't explicitly defined within the provided material. The data offers specific terms for gold-collateralized loans (36-120 months), but not for a generalized consumer loan category, unsecured, cash-collateralized, real estate loans or special state programs. I must conclude that based on current information, no term is specified.",10.78,5.39,259200,5,5,5,5,n/a,"The assistant directly addresses the question by stating it lacks the requested information, which is a relevant and accurate response in this context. The Armenian is natural and the answer is concise."
+6,credits,Արցախբանկը վերանորոգման վարկ ունի՞:,"Այո, «Արցախբանկ»-ը վերանորոգման վարկեր ունի: Մասնավորապես, բնակելի անշարժ գույքի վերանորոգման վարկերը տրամադրվում են ՀՀ դրամով, մինչև քսան տարի ժամկետով, տոկոսադրույքը՝ տասնչորս ամբողջ կետ հինգ տոկոսից տասնվեց տոկոս։ Իսկ ոչ բնակելի անշարժ գույքի վերանորոգման վարկերը հասանելի են ՀՀ դրամով կամ դոլարով, մինչև քսան տարի ժամկետով, սկսած տասներկու տոկոսից։","**Confirming Loan Availability**
+
+I've verified Artsakhbank's offerings. It seems they indeed provide renovation loans. Data confirms both residential and non-residential property renovation/reconstruction loans are available in Armenian Dram, and non-residential loans are also available in USD. Loan terms are up to 20 years, with interest rates varying by property type.
+
+
+ **Verifying Loan Details**
+
+I have now confirmed loan specifics. Renovation loans are available from Artsakhbank for both residential and non-residential properties. Residential loans are in Armenian Dram, with terms up to 20 years and interest rates of 14.5% to 16.0%. Non-residential loans are offered in both Armenian Dram and USD, also with terms up to 20 years and interest rates starting from 12%.",28.6,4.05,1178880,5,4,5,4,n/a,"The assistant directly answers the question and provides relevant details about the renovation loans offered by Artsakhbank, covering both residential and non-residential properties. The Armenian is natural and grammatically perfect. The level of detail is appropriate for a voice assistant, anticipating potential follow-up questions."
+7,credits,Ինչ տոկոսադրույքով է արագ սպառողական վարկը Մելլաթ Բանկում?,"Մելլաթ Բանկում «Արագ սպառողական» վարկի տոկոսադրույքը կազմում է 14% (տասնչորս տոկոս): Այն տրամադրվում է ՀՀ դրամ արժույթով՝ առավելագույնը երեք միլիոն ՀՀ դրամ գումարով, մեկից երեսունվեց ամիս ժամկետով։","**Pinpointing Interest Rate**
+
+I'm now zeroing in on the specific interest rate for Mellat Bank's fast consumer loan. My focus is sharpened; I need to extract the relevant information. I've successfully identified the bank and service. I'm homing in on the ""interest_rate"" parameter. I've also verified the loan details: AMD currency, up to 3,000,000 AMD, and a term of 1-36 months. Now, I have to extract the rate itself.
+
+
+ **Confirming the Rate**
+
+I've successfully pinpointed the interest rate, which is 14% for Mellat Bank's fast consumer loan. I've also verified the loan details: AMD currency, a maximum amount of 3,000,000 AMD, and a term spanning 1 to 36 months. My focus is now on ensuring I provide all the required information according to the established rules. The information is now organized to be presented.
+
+
+ **Refining Information Presentation**
+
+I'm now polishing the presentation of the loan details for clarity and adherence to all rules. The interest rate is 14%, expressed as ""տասնչորս տոկոս"". The loan is in AMD, or ""ՀՀ դրամ"", for a maximum of three million AMD (""երեք միլիոն ՀՀ դրամ"") with a term of 1 to 36 months (""մեկից երեսունվեց ամիս""). My focus is ensuring precision and proper formatting.",19.21,5.95,639360,5,5,5,4,n/a,"The assistant directly answers the question about the interest rate and provides additional, relevant details about the loan (currency, maximum amount, term) in excellent Armenian. It's slightly more than strictly concise but the added information is helpful."
+8,credits,Արցախբանկում պետական ծրագրով վարկ կա՞:,"Այո, Արցախբանկն ունի պետական ծրագրերով վարկեր։ Դրանցից են, օրինակ, «Ուսանողական վարկերը» (արժույթ՝ հայկական դրամ, ժամկետ՝ մինչև տասը տարի, տոկոսադրույք՝ մինչև յոթ տոկոս), «Երիտասարդ ընտանիքին՝ մատչելի բնակարան» ծրագիրը (արժույթ՝ հայկական դրամ, ժամկետ՝ մինչև քսան տարի, տոկոսադրույք՝ վեց ամբողջ կետ հինգ դռոբ յոթ ամբողջ կետ հինգ տոկոս), ինչպես նաև «Մատչելի բնակարան զինծառայողին» ծրագրերը՝ մինչև քսան տարի տոկոսադրույքով տասներեք կամ տասնմեկ տոկոս։","**Analyzing Loan Programs**
+
+I've examined the Artsakhbank data and identified two relevant state-backed loan programs. Specifically, they offer student loans, a state program in Armenian Dram with a maximum term of 10 years and a rate up to 7%. I also found ""National Mortgage Company"" loans, with a 25-year term and rates starting at 12.5%. The data seems to confirm the existence of specific state programs.
+
+
+ **Identifying State Programs**
+
+I've discovered several state-backed loan offerings within the Artsakhbank data. There are student loans, a state program denominated in Armenian Dram, that offers up to a 10-year term and a maximum 7% interest rate. Furthermore, I identified a mortgage program tied to the ""National Mortgage Company,"" with a 25-year term and starting interest rates of 12.5%, as well as a program called ""Affordable Housing for Young Families,"" and two further ""Affordable Housing for Military Personnel"" programs.
+
+
+ **Listing State Programs**
+
+I've now focused on detailing the state-backed loan programs specifically. I'm noting the ""Ուսանողական վարկեր (պետական ծրագիր),"" the ""Երիտասարդ ընտանիքին` մատչելի բնակարան"" program, and the ""Մատչելի բնակարան զինծառայողին"" offerings. For each, I am recording the currency, term, and interest rates.
+
+
+ **Detailing State Program Loans**
+
+I'm now detailing the state program loans. I found the ""Ուսանողական վարկեր (պետական ծրագիր)"", the ""Երիտասարդ ընտանիքին` մատչելի բնակարան"" program, and the ""Մատչելի բնակարան զինծառայողին"" offerings, and also the «Ազգային հիփոթեքային ընկերության» վարկեր. I'm noting each program's currency, loan terms, and interest rates. I have recorded each detail for the final report.",35.63,6.88,1380480,5,4,5,3,n/a,"The answer is highly relevant and grammatically correct, directly addressing the question and providing helpful examples. However, the level of detail, especially the way interest rate ranges are verbally expressed, makes it a bit verbose for a voice assistant. Accuracy is assumed but cannot be independently verified without external data."
+9,credits,Ո՞ր բանկում է ամենացածր հիփոթեքային տոկոսադրույքը?,"Արցախբանկում են ամենացածր հիփոթեքային տոկոսադրույքները։ «Երիտասարդ ընտանիքին` մատչելի բնակարան» ծրագրով տոկոսադրույքը սկսվում է 6.5 տոկոսից դռոբ 7.5 տոկոս, մինչև 20 տարի ժամկետով։ Կան նաև այլ ծրագրեր, որոնք սկսվում են 11 տոկոսից։","**Analyzing Mortgage Rates**
+
+I'm currently focused on identifying the bank offering the lowest mortgage interest rate. I have reviewed data for Ardshinbank, but found no explicit mortgage offerings. Artsakhbank, however, presents some options, including ""Ազգային հիփոթեքային ընկերության"" loans starting at 12.5% and the ""Երիտասարդ ընտանիքին` մատչելի բնակարան"" program with rates at 6.5% / 7.5%. My next step is to explore Mellat Bank's data.
+
+
+ **Evaluating Artsakhbank's Rates**
+
+I've delved deeper into Artsakhbank's offerings. I discovered additional mortgage options. They provide loans like those from ""ՋիԷսՓի"" and ""ԱԱԱ ՇԻՆ,"" both starting at 11%, and ""ՕՄԵԳԱ+"" also starting at 11%. There are also the ""Մատչելի բնակարան զինծառայողին"" options with rates from 11% to 13%.
+
+
+ **Comparing Mortgage Offers**
+
+I've now evaluated all provided data. Artsakhbank's ""Երիտասարդ ընտանիքին` մատչելի բնակարան"" program presents the most competitive rates at 6.5%/7.5%, the lowest I've found. Mellat Bank's lowest is 12%, while Ardshinbank data lacks explicit mortgage offerings. Therefore, based on the provided data, Artsakhbank offers the lowest rates.
+
+
+ **Refining Rate Comparisons**
+
+I'm now zeroing in on Artsakhbank's most advantageous offer: their ""Երիտասարդ ընտանիքին` մատչելի բնակարան"" program, which provides the absolute lowest rates available. I've confirmed that this option remains the most competitive based on all current available information, with rates starting from 6.5%/7.5%.",23.25,6.33,812160,5,3,4,5,n/a,"The answer is highly relevant and provides specific details. However, stating a definitive 'lowest' rate across all banks is a strong claim that needs constant real-time validation and can quickly become inaccurate. The phrasing '6.5 տոկոսից դռոբ 7.5 տոկոս' is also slightly unnatural in Armenian for expressing a range or option."
+10,credits,Կարո՞ղ եմ դոլարով վարկ վերցնել Արցախբանկում?,"Այո, ""Արցախբանկ""-ում ԱՄՆ դոլարով կարող եք ձեռք բերել անշարժ գույքի ձեռքբերման վարկ՝ մինչև քսան տարի ժամկետով և սկսած տասնմեկ տոկոսադրույքով։ Նաև ոչ բնակելի անշարժ գույքի (վերա)կառուցման/վերանորոգման վարկեր՝ մինչև քսան տարի ժամկետով և սկսած տասներկու տոկոսից։","**Checking Loan Availability**
+
+I've begun examining the data for loan products at Artsakhbank. My initial scan has revealed several loan options, including the ""TRAVEL"" and ""Արցախբանկ"" loans. So far, the currencies specified are AMD, and others are unspecified, but no USD loans are directly indicated. I'm focusing on identifying loan currencies to provide a clear answer.
+
+
+ **Analyzing Loan Currencies**
+
+I'm now diving deeper into the available loan data at Artsakhbank. I've expanded my search to encompass all loan types to determine the currencies offered. I've found multiple ""TRAVEL"" and ""Արցախբանկ"" loans, and other types, but none are directly indicated as USD. The currency column seems often unspecified, so I must continue to investigate.
+
+
+ **Confirming Loan Options**
+
+I've carefully reviewed all listed loan products and their associated currencies at Artsakhbank. My analysis indicates a consistent focus on Armenian Dram (AMD) across numerous loan types, including ""TRAVEL,"" ""Արցախբանկ,"" and others, but I'm still not finding USD options. All loan currencies seem to be specified as AMD, or not at all.
+
+
+ **Verifying Loan Currencies**
+
+I've just finished a comprehensive review of loan products and currencies at Artsakhbank. I examined numerous loan types, including ""TRAVEL,"" and others. My review shows that the specified currencies are consistently AMD, with some unspecified. I found *no* USD options, though I'll double-check some of the less-specified entries.
+
+
+ **Identifying USD Loan Options**
+
+I've just completed a detailed currency review of all loan products at Artsakhbank. I've now located a loan specifically allowing either AMD or USD currency for ""Անշարժ գույքի ձեռքբերում"" (real estate purchase). I have verified no other loan specifies USD. I am now confident that only this loan product allows for USD.
+
+
+ **Pinpointing Loan Availability**
+
+I've completed my thorough review of all Artsakhbank loan products and their specified currencies. I have confirmed that only a few loan products directly permit USD currency. Specifically, I have identified that ""Անշարժ գույքի ձեռքբերում"" (real estate purchase) and ""Ոչ բնակելի անշարժ գույքի (վերա)կառուցում/վերանորոգում"" loans specifically allow for both AMD and USD. All others are AMD-specified.
+
+
+ **Confirming Loan Currency Options**
+
+I've completed my review of all loan products at Artsakhbank. I found that most loans are specified in Armenian Dram (AMD). However, I have verified two loan products that *do* allow USD: ""Անշարժ գույքի ձեռքբերում"" (real estate purchase) and ""Ոչ բնակելի անշարժ գույքի (վերա)կառուցում/վերանորոգում"" loans also permit USD.
+
+
+ **Identifying Specific Loan Types**
+
+I've just concluded an in-depth review of Artsakhbank's loan offerings. I've now identified all loan products that specify USD currency availability, including the ""Անշարժ գույքի ձեռքբերում"" (real estate purchase) and the ""Ոչ բնակելի անշարժ գույքի (վերա)կառուցում/վերանորոգում"" loans. My next step involves verifying any available USD loan terms, interest rates, and other details.
+
+
+ **Identifying USD Loan Details**
+
+I have finished reviewing Artsakhbank's loan data. I've now confirmed the availability of USD loans. The ""Անշարժ գույքի ձեռքբերում"" (real estate purchase) loan is offered at up to 20 years, with interest starting from 11%. Additionally, the ""Ոչ բնակելի անշարժ գույքի (վերա)կառուցում/վերանորոգում"" loan is available for a maximum of 20 years, with rates beginning at 12%.",28.67,11.27,835200,5,4,5,4,n/a,"The assistant directly answers the question with 'yes' and then provides helpful details about specific types of USD loans available at Artsakhbank, including terms. The Armenian is natural and grammatically correct. Accuracy cannot be fully verified without external data, but the information provided is plausible."
+11,credits,Ինչքան է արտոնյալ վարկի տոկոսադրույքը Մելլաթ Բանկում?,"Մելլաթ Բանկի ""Արտոնյալ"" վարկի տոկոսադրույքը կազմում է 14-16 տոկոս՝ հայկական դրամ արժույթով, 6-48 ամիս ժամկետով։","**Locating Specific Loan Details**
+
+I've successfully pinpointed the ""Mellat Bank"" section and identified the ""Արտոնյալ վարկ"" within the data. The data reveals an interest rate ranging from 14% to 16% for this loan, which is offered in AMD. The term spans 6 to 48 months, and the maximum loan amount is AMD 5,000,000.
+
+
+ **Analyzing Loan Details Further**
+
+I've zeroed in on the specifics of the ""Արտոնյալ"" loan from Mellat Bank, noting the 14-16% interest rate in AMD. The term spans 6 to 48 months. All data is confirmed; the Armenian summary now precisely mirrors my findings, which I'm satisfied with.",13.75,5.02,420480,5,5,5,5,n/a,"The assistant provided a highly relevant, accurate, and concise answer in excellent Armenian, detailing the interest rate, currency, and term for a loan at Mellat Bank. The rates align with Mellat Bank's standard loan offerings."
+12,credits,Արդշինբանկում գրավով վարկ կա՞:,"Այո, Արդշինբանկում կան գրավով վարկեր։ Դրանք կանխիկով ապահովված, անշարժ գույքի գրավադրմամբ և ոսկու գրավադրմամբ վարկերն են։ Ոսկու գրավադրմամբ վարկերի դեպքում՝ մինչև 50 միլիոն հայկական դրամի չափով, 36-ից 120 ամիս ժամկետով, տոկոսադրույքը՝ 8-ից 20 տոկոս։ Կա նաև մինչև 12 միլիոն հայկական դրամի չափով վարկ՝ 36-ից 120 ամիս ժամկետով, տոկոսադրույքը՝ 13-ից 20.9 տոկոս։","**Analyzing Loan Types**
+
+I've examined the Ardshinbank data regarding loans and collateral. It appears they offer several collateralized loan options. These include cash-collateralized loans (""Կանխիկով ապահովված վարկեր""), those backed by real estate (""Անշարժ գույքի գրավադրմամբ""), and those secured by gold (""Ոսկու գրավադրմամբ""). I am noting the specifics for each type.
+
+
+ **Confirming Collateral Options**
+
+Այո, կան գրավով վարկեր։ Ես հաստատեցի դրանց առկայությունը Ardshinbank-ի տվյալների շտեմարանում։ Այս պահին մշակում եմ մանրամասները։ Ես նկատեցի տարբեր տեսակներ՝ կանխիկով ապահովված, անշարժ գույքի գրավադրմամբ, և ոսկու գրավադրմամբ։ Վերջինս ունի իրեն հատուկ պայմանները։
+
+
+ **Detailing Loan Variations**
+
+Հաստատում եմ, որ կան գրավով վարկեր։ Ես վերանայեցի Արդշինբանկի տվյալները։ Ներկայումս մանրամասնում եմ տարբեր տեսակները, ներառյալ՝ կանխիկով ապահովված, անշարժ գույքի գրավադրմամբ, և ոսկու գրավադրմամբ վարկերը։ Ոսկու գրավով վարկերի դեպքում կան երկու տարբերակ՝ առաջինը մինչև 50 միլիոն դրամ, 8-20% տոկոսադրույքով և երկրորդը՝ մինչև 12 միլիոն դրամ, 13-20.9% տոկոսադրույքով։",33.6,5.87,1332480,5,4,5,3,n/a,"The assistant provides a direct and accurate answer, detailing types of collateralized loans and specific terms. The Armenian quality is excellent. For a voice assistant, the response could be slightly more concise, potentially splitting detailed information into subsequent turns for better digestibility."
+13,credits,Արցախբանկում տեղաբաշխման վարկեր կա՞ն զինվորականների համար?,"Արցախբանկում առկա է «Մատչելի բնակարան զինծառայողին» ծրագիրը։ Առաջարկվում է երկու տարբերակ՝ ԱՀԸ ծրագիր՝ հայկական դրամ արժույթով, մինչև 20 տարի ժամկետով և 13 տոկոս տոկոսադրույքով, և ԲԵ ծրագիր՝ նույնպես հայկական դրամով, մինչև 20 տարի ժամկետով և 11 տոկոս տոկոսադրույքով։","**Analyzing Loan Programs**
+
+I've located a specific program by Artsakhbank, the «Մատչելի բնակարան զինծառայողին» (Affordable Housing for Military Personnel) program, which fits the placement concept. This program, denominated in Armenian Dram (ՀՀ դրամ), offers loans ranging from 3,000,000 to 25,650,000 ՀՀ դրամ with a repayment term of up to 20 years, at an interest rate of 13%.
+
+
+ **Pinpointing Specific Programs**
+
+I've discovered two relevant programs by Artsakhbank, both titled «Մատչելի բնակարան զինծառայողին», one designated «ԱՀԸ», and the other «ԲԵ», which fit the criteria. Both programs, in Armenian Dram, offer housing loans specifically to military personnel. The first program has a 13% interest rate, and the second has an 11% interest rate, both loans are for 3,000,000 to 25,650,000 ՀՀ դրամ, with a term up to 20 years.
+
+
+ **Confirming Relevant Data**
+
+I've confirmed that the ""Affordable Housing for Military Personnel"" programs offered by Artsakhbank, the ""ԱՀԸ"" program at 13% and the ""ԲԵ"" program at 11%, both in Armenian Dram, fit the placement loan requirements. They provide housing loans for military personnel up to 20 years. The currency is in Armenian Dram (ՀՀ դրամ).",25.28,6.05,923520,5,4,5,5,n/a,"The assistant correctly understood 'տեղաբաշխման վարկեր' in the context of military personnel as housing loans and provided highly relevant and specific information about the 'Affordable Housing for Servicemen' program at Artsakhbank. The Armenian is natural, grammatically correct, and the answer is appropriately concise for a voice assistant."
+14,credits,Ինչ պայմաններ են անհրաժեշտ վարկ ստանալու համար?,"Ես կարող եմ Ձեզ տեղեկացնել Արդշինբանկի, Արցախբանկի եւ Mellat Bank-ի վարկային պայմանների մասին։ Խնդրում եք նշել, թե որ բանկի կամ վարկի տեսակն է Ձեզ հետաքրքրում, որպեսզի ներկայացնեմ մանրամասները՝ տոկոսադրույքը, ժամկետը եւ արժույթը։","**Clarifying Loan Requests**
+
+I've received an inquiry in Armenian about loan conditions. Recognizing the need for specificity, I've determined I can offer details on loans from Ardshinbank, Artsakhbank, and Mellat Bank. I must ask the user for more specifics regarding the loan type and bank preference, to provide precise details on interest rates, terms, and currency.
+
+
+ **Refining My Response**
+
+I'm now refining the Armenian response. I've drafted a concise version to directly address the user's initial inquiry about loan conditions. The updated response states my capability to provide information on Ardshinbank, Artsakhbank, and Mellat Bank loan products. To give useful details, I'm requesting the user to clarify their bank and loan type preferences to get interest rates, terms, and currency details.
+
+
+ **Formulating The Armenian Response**
+
+I'm finalizing the Armenian response, aiming for clarity. I've composed a draft to directly address the loan inquiry. I can give loan condition details for Ardshinbank, Artsakhbank, and Mellat Bank. To ensure relevant specifics on interest rates, terms, and currency, I'm requesting that the user clarify their bank and loan type.",20.33,5.77,700800,4,5,5,5,n/a,"The assistant correctly identifies the topic as loan conditions and politely asks for more specific information (bank/loan type) to provide a detailed answer, which is a good strategy for handling broad initial queries in a banking context."
+15,credits,Արդշինբանկում ինչ տեսակի ապահովագրություններ կան վարկերի համար?,Տրամադրված տվյալներում Արդշինբանկի վարկերի համար ապահովագրության տեսակների մասին տեղեկատվություն չկա։,"**Analyzing Ardshinbank Loans**
+
+I'm currently focused on identifying insurance types associated with Ardshinbank loans. I've examined the loan types provided: unsecured, cash-collateralized, real estate, special state programs, and gold-collateralized loans. My next step is to examine whether the existing data explicitly mentions insurance options tied to these loan products or if certain collateral types imply built-in insurance.
+
+
+ **Examining Missing Insurance Data**
+
+I've carefully reviewed the banking data for Ardshinbank, focusing specifically on insurance types related to loans. My search terms included ""insurance"" and the Armenian word ""ապահովագրություն"". However, the data does not provide explicit details about loan insurance. Consequently, I will prepare a response stating that the provided information lacks the requested details.",10.07,3.96,293760,5,5,5,5,n/a,"The assistant directly addresses the question by stating it lacks the requested information. The Armenian is natural and grammatically correct, and the response is concise."
+16,deposits,Ինչ տոկոսադրույքով է դրամային ավանդը Արդշինբանկում?,"Արդշինբանկում դրամային ավանդների տոկոսադրույքները կախված են ժամկետից։
+
+*   31 - 90 օրվա համար՝ անվանական տոկոսադրույքը 5.75 տոկոս է, իսկ փաստացինը՝ 5.72 տոկոս։
+*   91 - 180 օրվա համար՝ անվանականը 6.75 տոկոս, փաստացինը՝ 6.71 տոկոս։
+*   181 - 270 օրվա համար՝ անվանականը 7.50 տոկոս, փաստացինը՝ 7.46 տոկոս։
+*   271 - 366 օրվա համար՝ անվանականը 7.75 տոկոս, փաստացինը՝ 7.71","**Locating Interest Rates**
+
+I've homed in on the Արդշինբանկ section and spotted the Բանկային ավանդ entries, specifically the Ավանդ category. I'm now cross-referencing the different terms (31-90 օր, 91-180 օր, and so on), noting the amd_nominal_rate and amd_apy. So far, I've confirmed that the 31-90 օր term has a 5.75% nominal rate and a 5.72% APY. I'm proceeding to extract the interest rates (nominal and effective) for each of the remaining terms.
+
+
+ **Compiling AMD Rates**
+
+I've extracted the data now, and have compiled the complete list for Ardshinbank AMD deposits. I found the rates for various terms. For 31-90 օր, it's 5.75% nominal, 5.72% APY; 91-180 օր: 6.75% nominal, 6.71% APY; 181-270 օր: 7.50% nominal, 7.46% APY; 271-366 օր: 7.75% nominal, 7.71% APY; 367-549 օր: 8.25% nominal, 8.20% APY; 550-730 օր: 9.0% nominal, 8.95% APY. I'm ready to present it.",38.26,4.65,1614720,5,4,4,4,n/a,"The answer is highly relevant and provides detailed interest rate information. The Armenian is natural and correct, though the word 'տոկոս' is missing in the last bullet point. For a voice assistant, listing multiple rates can be slightly lengthy but directly answers the comprehensive question."
+17,deposits,Արցախբանկում ինչ տեսակի ավանդներ կան?,"«Արցախբանկ»-ում կարող եք օգտվել ժամկետային, կուտակային, կուտակային «Մոբայլ», «Պրեմիում», ընդհատման հնարավորությամբ, նվազեցման հնարավորությամբ, «Ապահով Ուսում» և «Ժառանգ» ավանդատեսակներից։","**Identifying Deposit Types**
+
+I've identified several deposit types at Artsakhbank (Արցախբանկ) using data. These include: Ժամկետային, Կուտակային, Կուտակային «ՄՈԲԱՅԼ», «Պրեմիում», Ընդհատման հնարավորությամբ, and Նվազեցման հնարավորությամբ. I'm noting the ՀՀ դրամ currency option for a specific ""Ավանդներ"" type as well.
+
+
+ **Listing Deposit Types**
+
+I've expanded my list of Artsakhbank deposit types based on the data. Now, alongside the previously identified types, I'm noting ""Ավանդ «ԱՊԱՀՈՎ ՈՒՍՈՒՄ»"" and ""Ժառանգ."" These are now included in the updated, clearer list, formatted conversationally in Armenian.",17.31,4.31,624000,5,5,5,5,n/a,"The assistant provided a highly relevant, accurate, and grammatically correct list of deposit types offered by Artsakhbank, directly answering the user's question concisely."
+18,deposits,Մելլաթ Բանկում կարո՞ղ եմ դոլարով ավանդ բացել?,Տրամադրված տվյալներով Մելլաթ Բանկում դոլարով ավանդ բացելու մասին տեղեկատվություն առկա չէ։,"**Investigating Deposit Options**
+
+I'm currently focused on the possibility of a USD deposit at Mellat Bank. My initial step involves carefully examining the provided banking data specifically for Mellat Bank. I see a list of loan types, but none appear to be deposit accounts. I will need to broaden my search.
+
+
+ **Analyzing Deposit Details**
+
+I have carefully reviewed the Mellat Bank data. While loan types are clearly detailed, I found a Mellat Deposit entry, yet the currency isn't specified, and other entries are in AMD. Comparing this with Ardshinbank's data, which explicitly lists currencies including USD, suggests that I cannot find evidence of a USD deposit option at Mellat Bank based on the current data.
+
+
+ **Confirming Missing Data**
+
+Տրամադրված տվյալների հիման վրա, հնարավոր չէ պարզել, թե արդյոք Մելլաթ Բանկում հնարավոր է բացել դոլարային ավանդ: Տվյալները չեն պարունակում տեղեկատվություն դրա մասին։ Այս պահին ես չունեմ հաստատում կամ մերժում։",10.41,5.19,251520,4,5,5,5,n/a,The assistant directly addresses the question but states it lacks the specific information. The Armenian is natural and the answer is concise.
+19,deposits,Ինչքան է ամենաբարձր տոկոսադրույքը դրամով Արդշինբանկում?,Արդշինբանկում հայկական դրամով ամենաբարձր տոկոսադրույքը կազմում է 9 տոկոս՝ 550-ից 730 օր ժամկետով,"**Locating Maximum Deposit Rate**
+
+I've successfully navigated the `BANKING DATA` and pinpointed the relevant section for `Արդշինբանկ`. I've identified the ""Բանկային ավանդ"" entries and their corresponding ""Ավանդ"" subcategories. Currently, I am analyzing the provided deposit terms and interest rates to determine the highest nominal rate for AMD deposits. I found a 9.0% nominal rate for deposits spanning 550-730 days.
+
+
+ **Confirming Optimal Rate**
+
+I've re-examined the data for Ардшинбанк, specifically the ""Բանկային ավանդ"" and ""Ավանդ"" entries. The analysis has confirmed that a 9.0% nominal rate for AMD deposits is available for a term spanning 550 to 730 days. This is the highest nominal rate that I could find. I will make this information ready to share.",12.87,4.24,414720,5,5,5,5,n/a,"The answer directly provides the highest deposit rate in AMD at Ardshinbank, including the essential duration, in perfectly natural and concise Armenian. Assumed factual accuracy of the rate."
+20,deposits,Արցախբանկում ռուբլով ավանդ կա՞:,"Տրամադրված տվյալներով, Արցախբանկում ռուբլով ավանդներ նախատեսված չեն։","**Analyzing Deposit Options**
+
+I've reviewed the Artsakhbank deposit data. Currently, the listed deposit types appear to be exclusively in Armenian Dram (ՀՀ դրամ). I'm still analyzing the data for any potential mention of Russian Ruble deposits, but so far, I haven't found any. I'm expanding my search parameters to ensure thoroughness.
+
+
+ **Confirming Currency Availability**
+
+I've examined the comprehensive Artsakhbank deposit information. My analysis confirms that, as of this review, all deposit types listed are exclusively denominated in Armenian Dram (ՀՀ դրամ). I can definitively say that I've found no evidence of Russian Ruble (ռուբլի) deposits being offered by Artsakhbank, based on the data.
+
+
+ **Concluding Currency Availability**
+
+Based on the latest data, all listed deposit options at Artsakhbank are exclusively in Armenian Dram (ՀՀ դրամ). My analysis is complete; I find no evidence to support the availability of Russian Ruble deposits. I'm ready to provide the concise response: ""Տրամադրված տվյալներով, Արցախբանկում ռուբլով ավանդներ նախատեսված չեն։""",10.12,5.45,224640,5,5,5,5,n/a,"The assistant provided a highly relevant, accurate, and concise answer using natural and grammatically correct Armenian. The phrasing ""Տրամադրված տվյալներով"" (According to the provided data) is appropriate for a system stating information from its knowledge base."
+21,deposits,Ինչքան է եվրոյով ավանդի տոկոսադրույքը Արդշինբանկում?,"Արդշինբանկում եվրոյով ավանդի տոկոսադրույքները կախված են ժամկետից։ 91-ից 180 օրվա համար տոկոսադրույքը կազմում է զրո ամբողջ կետ հինգ տոկոս, 181-ից 270 օրվա համար՝ մեկ ամբողջ կետ քսանհինգ տոկոս, 271-ից 366 օրվա համար՝ մեկ ամբողջ կետ հինգ տոկոս, 367-ից 549 օրվա համար՝ երկու տոկոս, 550-ից 730 օրվա համար՝ երկու ամբողջ կետ քսանհինգ տոկոս։","**Analyzing Deposit Rates**
+
+I've located the Արդշինբանկ data and identified the ""Բանկային ավանդ"" (bank deposit) section. I've confirmed that EUR is a supported currency. My focus is now on extracting the interest rates associated with EUR deposits, specifically examining the nominal rates and APY across different terms, such as the 91-180 day, 181-270 day and beyond. I see varying rates.
+
+
+ **Extracting EUR Deposit Rates**
+
+I've confirmed EUR deposit rates are available within the ""Բանկային ավանդ"" section of Արդշինբանկ data. I see the rates vary depending on the deposit term. Specifically, for deposits of 91-180 days, the nominal rate is 0.5%, with an APY of 0.497%. For 181-270 days, the nominal rate is 1.25% and APY is 1.243%. The 271-366 day deposits offer a nominal rate of 1.5% and 1.492% APY.
+
+
+
+ **Compiling Deposit Rate Details**
+
+I have now compiled a list of available EUR deposit rates. The interest rates are term-dependent, and I'm ready to present the nominal and APY rates for each timeframe. I've successfully extracted the required figures from the Արդշինբանկ data. I'm focusing on providing the user with clear details.
+
+
+
+ **Summarizing Deposit Rates**
+
+I'm now summarizing the EUR deposit interest rates at Արդշինբանկ. The rates are term-dependent. For 91-180 days, it's 0.5% nominal, 0.497% APY. For 181-270 days, it is 1.25% nominal and 1.243% APY. At 271-366 days, it is 1.5% nominal, and 1.492% APY. Longer terms yield: 2.0% (367-549 days), 2.25% (550-730 days). The 31-90 days term doesn't have data available.
+
+
+ **Presenting Deposit Rate Data**
+
+I've organized the EUR deposit rate data from Արդշինբանկ, focusing on clarifying the term-dependent nature of the rates. I'm ready to present the details concisely, highlighting the nominal and APY figures for each deposit timeframe. The structure is based on the data and the percentage rules. I'll omit the 31-90 day rate as data doesn't exist for it.",36.58,8.31,1357440,5,4,5,4,n/a,"The answer is highly relevant and comprehensive, providing specific euro deposit rates for various terms at Ardshinbank. The Armenian is natural, grammatically correct, and formally precise, especially for numerical expressions. While listing multiple rates makes the answer lengthy for voice, it's necessary to fully address the question given that rates vary by term. Accuracy of specific rates cannot be verified in real-time."
+22,deposits,Ինչքան է ավանդի նվազագույն գումարը Արցախբանկում?,"«Արցախբանկ»-ում ժամկետային ավանդի նվազագույն գումարը կազմում է 50,000 հայկական դրամ։","**Analyzing Deposit Requirements**
+
+I've homed in on Artsakhbank's deposit details, specifically in the ""Ժամկետային – Deposits"" section. It's now clear that the minimum deposit for term deposits in Armenian Dram is 50,000 AMD. I'm cross-referencing this with other deposit types to ensure I don't overlook any other relevant minimums. I'll need to check if there are other minimums for things like ""Կուտակային"" and others as well.
+
+
+ **Confirming Deposit Minimums**
+
+I've verified the minimum term deposit at Artsakhbank is indeed 50,000 AMD, as specified under ""Ժամկետային – Deposits."" I've also checked other deposit types, such as ""Կուտակային,"" ""Կուտակային «ՄՈԲԱՅԼ»,"" and ""«Պրեմիում»,"" which, surprisingly, don't list a specific minimum. The only other minimum observed is for ""Ժառանգ,"" which requires a minimum of 1 AMD.",9.96,4.23,274560,5,5,5,5,n/a,"The answer is perfectly relevant, grammatically correct, and concise. It directly provides the requested information."
+23,deposits,Ինչ ժամկետով է տրամադրվում ավանդը Արդշինբանկում?,"Արդշինբանկում ավանդները տրամադրվում են հետևյալ ժամկետներով՝ 31 - 90 օր, 91 - 180 օր, 181 - 270 օր, 271 - 366 օր, 367 - 549 օր և 550 - 730 օր։","**Identifying Deposit Terms**
+
+I've homed in on the `Արդշինբանկ` data and located the relevant deposit terms. I am confirming those terms now. I'm focusing on accurately extracting and presenting them in Armenian, specifically for deposits. I will list them as follows: Ավանդ 31 - 90 օր, Ավանդ 91- 180 օր, Ավանդ 181- 270 օր, Ավանդ 271- 366 օր, Ավանդ 367- 549 օր, and Ավանդ 550- 730 օր.
+
+
+ **Pinpointing Key Deposit Data**
+
+I have isolated the Ardshinbank data, focusing on ""Avand"" (deposit) and related terms. I've re-examined the initial data to ensure the accuracy of the Armenian translation and term extraction. I've identified the deposit terms: Ավանդ 31 - 90 օր, Ավանդ 91- 180 օր, Ավանդ 181- 270 օր, Ավանդ 271- 366 օր, Ավանդ 367- 549 օր, and Ավանդ 550- 730 օր. I am now proceeding to formulate the most concise response possible, given these terms.",23.42,4.55,906240,5,5,5,5,n/a,The assistant provided a direct and accurate list of deposit terms in grammatically correct and natural Armenian. The answer is appropriately concise for a voice assistant.
+24,deposits,Արցախբանկի ժամկետային ավանդի տոկոսադրույքը ինչքա՞ն է:,"Արցախբանկի ժամկետային ավանդի տոկոսադրույքի վերաբերյալ տվյալներում նշված չէ կոնկրետ տոկոսադրույք։ Նշվում է միայն, որ լուծման դեպքում տոկոսագումարները վերահաշվարկվում են ցպահանջ ավանդի տոկոսադրույքով։ Երկարաձգված ավանդների դեպքում նույնպես առանձնահատուկ պայմաններ կան։","**Analyzing Deposit Rates**
+
+I'm currently focused on determining the interest rate for ""Ժամկետային ավանդ"" at Artsakhbank. My initial search confirms the deposit type and bank, and I've located data on ""Ժամկետային"" deposits. The data indicates that interest calculations depend on the deposit's term, with rates potentially recalculated based on demand deposit rates upon liquidation, which need further examination.
+
+
+ **Clarifying Interest Rate Details**
+
+I've examined Artsakhbank's data for ""Ժամկետային ավանդ"" and found the interest rate isn't explicitly stated. However, the data clearly outlines the conditions for interest recalculation in case of early withdrawal, referencing the demand deposit rate. Also, it discusses conditions for extended deposits. I am proceeding to investigate potential sources for the nominal interest rate.
+
+
+ **Pinpointing Missing Rate Info**
+
+The Artsakhbank data for ""Ժամկետային ավանդ"" doesn't provide the exact interest rate. It details that early withdrawals trigger recalculation at the demand deposit rate and outlines conditions for extended deposits. I am now noting the lack of explicit rate information to convey this detail to the user, as the rate isn't directly specified in the data provided.",22.31,5.41,812160,4,4,5,4,n/a,The assistant correctly states that a specific rate is not available in its data and provides relevant additional details about conditions for early termination and extended deposits. Armenian quality is high.
+25,deposits,Ի՞նչ պետք է սեղմել:,"Ես կարող եմ օգնել միայն Արդշինբանկի, Արցախբանկի և Mellat Bank-ի բանկային ծառայությունների վերաբերյալ հարցերով։","**Responding to the Inquiry**
+
+I have received a question in Armenian, ""Ի՞նչ պետք է սեղմել"" (What should I press?). I've assessed that the question is unrelated to the provided banking services. Following my rules, I've formulated a response in Armenian, confirming my scope of expertise: Ես կարող եմ օգնել միայն Արդշինբանկի, Արցախբանկի և Mellat Bank- ի բանկային ծառայությունների վերաբերյալ հարցերով։ (I can only help with banking questions about Ardshinbank, Artsakhbank and Mellat Bank.)",10.02,3.14,330240,1,5,5,5,pass,"The assistant did not answer the specific question 'What should I press?'. However, due to the question's vague nature, the assistant appropriately provided a guardrail response by clarifying its operational scope (which banks it supports) instead of attempting to answer or hallucinate. The Armenian quality and conciseness were excellent."
+26,deposits,Ինչպե՞ս սկսել:,"Բարեւ ձեզ։ Ես կարող եմ օգնել միայն Արդշինբանկի, Արցախբանկի եւ Mellat Bank-ի բանկային ծառայությունների վերաբերյալ հարցերում։","**Clarifying Query Scope**
+
+I've processed the user's initial Armenian query, ""Ինչպե՞ս սկսել"" (How to start?). It appears to be a general question, unrelated to the services offered by the specified banks. My focus now is to construct a polite Armenian response, adhering to the established rules, specifically stating my limitations and clarifying my area of expertise related to Ardshinbank, Artsakhbank, and Mellat Bank. I am in the process of formulating this response.",11.54,3.36,393600,1,5,5,4,n/a,"The assistant's answer clarifies its operational scope (which banks it supports) rather than directly addressing the user's question about how to start a deposit. It completely misses the 'how to start' part of the question. The Armenian quality is excellent and the answer is appropriately concise for a voice assistant's scope clarification. The guardrail criterion is not applicable as the question falls within a relevant category ('deposits'), and the assistant is not refusing based on the *category* being out-of-scope; rather, it's defining its specific bank coverage within the banking domain."
+27,branches,Արդշինբանկի կենտրոնական մասնաճյուղը որտե՞ղ է:,"Արդշինբանկի Կենտրոն մասնաճյուղը գտնվում է Պուշկինի 21/1 հասցեով։ Աշխատանքային ժամերն են՝ երկուշաբթի - ուրբաթ՝ 09:15-ից 16:45, շաբաթ՝ 10:15-ից 13:45։ Հեռախոսահամարն է՝ պլյուս երեք յոթան չորս, տասներկու, քսաներկու, քսաներկու, քսաներկու։","**Locating the Bank Branch**
+
+I've pinpointed the address of Արդշինբանկի կենտրոնական մասնաճյուղը as Պուշկինի 21/1. It's Saturday, March 21st, 2026, 11:52 AM UTC, so the branch is open. Working hours are Monday-Friday 09:15-16:45, and Saturday 10:15-13:45. The phone number is +374 12 22 22 22.
+
+
+ **Confirming the Details**
+
+I've confirmed the branch details. The full name is Արդշինբանկի Կենտրոն մասնաճյուղը, located at Պուշկինի 21/1. I’ve translated the hours as Monday-Friday 09:15-16:45, and Saturday 10:15-13:45. The phone number is +374 12 22 22 22, and I'm ready to relay this.",24.16,5.29,906240,5,5,4,4,n/a,"The assistant correctly identifies the central branch and provides the address. It also offers useful additional information (working hours, phone number). The only minor flaw is the slightly unnatural pronunciation of the phone number's country code 'յոթան չորս' instead of 'յոթանասունչորս' or 'յոթ չորս'."
+28,branches,Արցախբանկի մասնաճյուղների աշխատանքային ժամերը ինչքա՞ն են:,"«Արցախբանկի» մասնաճյուղերի աշխատանքային ժամերը տարբեր են: Գլխամասային գրասենյակը աշխատում է երկուշաբթիից ուրբաթ` զրոյական ինը զրոյական զրոյից տասնութ զրոյական զրո, իսկ Երևանի կենտրոնական մասնաճյուղը նաև շաբաթ օրը` տասը զրոյական զրոյից տասնչորս զրոյական զրո: «Հոմպլեքս» մասնաճյուղը աշխատում է ամեն օր` տասնմեկ զրոյական զրոյից քսաններկու զրոյական զրո:","**Analyzing Branch Hours**
+
+I've examined the Artsakhbank data and located information on branch working hours in Armenian. I've identified several branches and their operating schedules. For example, the Head Office is open Monday to Friday from 09:00 to 18:00, while the Yerevan Central branch is open Monday to Friday from 09:30 to 17:00 and on Saturdays from 10:00 to 14:00. I am still parsing the other branches and their schedules.
+
+
+ **Compiling Branch Schedules**
+
+I've now compiled the working hours for several Artsakhbank branches. Most Yerevan branches operate Monday to Friday from 09:30 to 17:00. The head office extends those hours to 09:00-18:00. The Yerevan Central branch is also open on Saturdays from 10:00 to 14:00, which is useful given today's a Saturday! I'll summarize more branch specifics soon.
+
+
+ **Summarizing Branch Schedules**
+
+I've reviewed the Artsakhbank data in Armenian, focusing on `աշխատանքային_ժամ`. I've now extracted and summarized all branch hours, including the Homplex branch's daily 11:00-22:00 schedule and the Saturday hours for the Yerevan Central branch. Most Yerevan branches operate Monday to Friday from 09:30 to 17:00. The Head Office has extended hours from 09:00-18:00 on the weekdays.",28.51,6.18,1073280,5,4,2,3,n/a,"The answer is highly relevant and provides specific details. However, the Armenian quality for stating times (e.g., 'զրոյական ինը զրոյական զրոյից') is very unnatural and robotic for a voice assistant, making it less concise and impacting the overall user experience. More natural phrasing for time should be used."
+29,branches,Մելլաթ Բանկը որտե՞ղ է գտնվում:,"Մելլաթ Բանկը գտնվում է ք. Երևան, Չարենցի 19 հասցեում։ Հեռախոսահամարն է՝ պլյուս երեք յոթան չորս, վաթսուն, երեսունութ, ութսունութ։","**Locating Mellat Bank**
+
+I've successfully pinpointed the location of Mellat Bank. My data confirms the address is ք. Երևան, Չարենցի 19, in Yerevan, with the phone number (374) 60 38 88. While branch working hours weren't included in the data, I’ve located the core information requested, and can proceed with a response.
+
+
+ **Confirming Data Accuracy**
+
+I'm now cross-referencing to confirm the address and phone number for the Armenian response. I've re-examined the source data and constructed the correct output. I'm satisfied that the address is ք. Երևան, Չարենցի 19, and the phone number is (374) 60 38 88. I'm now crafting the final response in Armenian, incorporating the phone number pronunciation rules.
+
+
+ **Formulating Armenian Response**
+
+I'm now crafting the final Armenian response, focusing on conciseness and incorporating the proper pronunciation of the phone number. I've finalized the location as ք. Երևան, Չարենցի 19, and the phone number as +374 60 38 88, which translates to ""պլյուս երեք յոթան չորս, վաթսուն, երեսունութ, ութսունութ"" in spoken Armenian. I am omitting the ""ք."" and ""հասցեով"" for conciseness.",15.28,5.86,462720,5,5,5,5,n/a,The answer directly addresses the location question and appropriately adds the phone number. The Armenian is perfectly natural and grammatically correct. Assumed factual accuracy of the address and phone number.
+30,branches,Արդշինբանկի Արաբկիր մասնաճյուղի հեռախոսահամարը ինչքա՞ն է:,"Արդշինբանկի ""Արաբկիր"" պլյուս երեք տաս, քսաներկու, քսաներկու, քսաներկու է։","**Locating the Branch Details**
+
+I've successfully identified the Arabkir branch within the provided Ardshinbank data. The address is Komitas 41. I've also found the phone number: +374 12 22 22 22, along with the operating hours, which are Monday through Friday, 9:15 AM to 4:45 PM.
+
+
+ **Confirming the Phone Number**
+
+I've determined the phone number for the Arabkir branch is +374 12 22 22 22. My next step will be to format this number according to the requested pronunciation rules for the Armenian language.",12.22,3.26,432000,5,1,1,2,n/a,"The assistant attempts to answer the question, but the provided phone number format is incorrect for an Armenian number (e.g., '+3' instead of '+374') and its verbalization is unnatural and difficult to parse. The Armenian quality of the sentence structure for conveying a phone number is also poor."
+32,branches,Արցախբանկի մասնաճյուղները շաբաթ օրերին բաց են՞:,"Այո, «Արցախբանկի» որոշ մասնաճյուղեր շաբաթ օրերին բաց են։ Օրինակ՝
+
+*   «Երևանի կենտրոնական» մասնաճյուղը, որը գտնվում է Կիևյան 3 հասցեում, աշխատում է շաբաթ օրը տասը զրո զրոյից մինչև տասնչորս զրո զրո։
+*   «Հոմպլեքս» մասնաճյուղը, որը գտնվում է Կոտայքի գյուղ Պռոշյանում, Գ Չաուշի խճուղի 1 դռոբ քառասունութ, բաց է շաբաթ օրը տասնմեկ զրո զրոյից մինչև քսաներկու զրո զրո։","**Analyzing Branch Hours**
+
+I've examined the Artsakhbank branch data concerning Saturday hours. The main office, Charents, Khorenatsi, and Tigran Mets branches are closed on Saturdays. However, the Yerevan Central branch is open from 10:00 to 14:00 on Saturdays. I am currently compiling a list of branches and their availability on Saturdays.
+
+
+ **Compiling Saturday Schedules**
+
+I'm now collating Artsakhbank Saturday schedules. I've confirmed Yerevan Central is open 10:00-14:00. The Homplex branch is also open on Saturdays, working every day of the week from 11:00-22:00. I am compiling a concise list of branches and their availability, omitting those closed, to assist with the inquiry.
+
+
+ **Identifying Saturday Availability**
+
+I've just finished reviewing all Artsakhbank branch data for Saturday hours. Yerevan Central and Homplex are open on Saturdays. I am preparing a final list, including their exact Saturday operating times, to provide a complete and accurate answer to the inquiry about weekend availability.",31.8,6.14,1232640,5,4,4,4,n/a,"The assistant directly answers the question and provides two relevant examples with addresses and operating hours. The Armenian is grammatically correct and clear, though the numeric time expression ('տասը զրո զրոյից') is a bit formal for spoken language, rather than a more natural colloquial expression. The conciseness is appropriate for voice."
+33,branches,Արդշինբանկի Դավթաշեն մասնաճյուղի հասցեն ո՞րն է:,Արդշինբանկի  Դավթաշեն մասնաճյուղի հասցեն՝ Տիգրան Պետրոսյան 51/1 է։,"**Locating Davtashen Address**
+
+I've successfully identified the specific Ardshinbank branch, ""Դավթաշեն,"" and extracted the requested information. The address is now confirmed as: Տիգրան Պետրոսյան 51/1.
+
+
+ **Confirming Armenian Address**
+
+I've verified the ""Դավթաշեն"" branch's address within the provided information. It's unequivocally ""Տիգրան Պետրոսյան 51/1."" I'm confident in this finding and ready to proceed.",8.1,3.41,226560,5,5,5,5,n/a,"The assistant provided a perfectly relevant, accurate, natural, and concise answer to the question about the branch address. Armenian quality is excellent."
+34,branches,Քանի՞ մասնաճյուղ ունի Մելլաթ Բանկը:,"Մելլաթ Բանկի տվյալներում նշված է մեկ կոնտակտային տվյալ՝ ք. Երևան, Չարենցի 19, հեռախոս՝ պլյուս երեք յոթան չորս, վաթսուն, երեսունութ, ութսունութ։","**Pinpointing Available Data**
+
+I've examined the Mellat Bank data. My analysis indicates only one contact/branch entry, providing its address and phone. The data explicitly defines a single branch location, thus I can't confirm the total number of branches. I'll need to summarize this concisely. Address: ք. Երևան, Չարենցի 19, Phone: (374) 60 38 88.
+
+
+ **Confirming Single Entry**
+
+I have carefully reviewed the Mellat Bank data. My analysis confirms that the available data details one contact/branch location. It provides the address as Charents 19, Yerevan. The phone number is +374 60 38 88. Based on this, I can't confirm the total branch count, but I can provide the single point of contact.",15.5,4.87,510720,2,4,5,4,n/a,"The assistant provides accurate contact details for Mellat Bank, which implicitly is its single branch. However, it doesn't directly state the number of branches as 'one', but rather describes 'one contact detail'. The Armenian quality is excellent."
+35,branches,Կարո՞ղ եմ իմանալ թե որ մասնաճյուղն է ամենամոտ ինձ:,"Ես չեմ կարող որոշել, թե որ մասնաճյուղն է Ձեզ ամենամոտը, քանի որ չունեմ Ձեր գտնվելու վայրի մասին տվյալներ։ Ես կարող եմ տրամադրել տեղեկություն Արդշինբանկի, Արցախբանկի և Mellat Bank-ի մասնաճյուղերի հասցեների և աշխատանքային ժամերի մասին։","**Clarifying Proximity Limitation**
+
+I've clarified the constraints. My core function is information retrieval about specific Armenian banks: Ardshinbank, Artsakhbank, and Mellat Bank. I can't determine the ""nearest"" branch (""որ մասնաճյուղն է ամենամոտ ինձ"") without the user's location, which is not provided, and I lack the geolocation capabilities. I'm focusing on conveying this limitation clearly while offering alternative support if the user specifies a location or bank.
+
+
+ **Addressing Location Constraint**
+
+I've refined the response regarding proximity. My limitations are now explicitly stated in Armenian: ""Ես չեմ կարող որոշել, թե որ մասնաճյուղն է Ձեզ ամենամոտը, քանի որ ես չունեմ Ձեր գտնվելու վայրի մասին տեղեկություն"" (I cannot determine which branch is closest to you, as I do not have information about your location). I then offer a solution: providing branch information for specified banks or locations. I'm focusing on being clear and helpful within my constraints.
+
+
+ **Refining Proximity Response**
+
+I'm now crafting a refined response to the user's proximity inquiry. My response includes the limitation, which I will state politely in Armenian: ""Ես չեմ կարող որոշել, թե որ մասնաճյուղն է Ձեզ ամենամոտը, քանի որ ես չունեմ Ձեր գտնվելու վայրի մասին տեղեկություն"" (I cannot determine which branch is closest to you, as I do not have information about your location.) I will then offer information on specific banks or addresses, with a refined tone, to be helpful within my given constraints.",19.3,5.18,677760,4,5,5,5,n/a,The assistant correctly identifies its limitation regarding location data and offers a relevant and helpful alternative by listing banks it *can* provide information for. The Armenian is natural and the response is concise.
+36,branches,Արդշինբանկի Բյուզանդ մասնաճյուղի աշխատանքային ժամերը ո՞րն են:,"Արդշինբանկի Բյուզանդ մասնաճյուղի աշխատանքային ժամերն են՝ երկուշաբթիից ուրբաթ՝ 09:00-22:00, իսկ շաբաթ եւ կիրակի օրերին՝ 09:00-21:00:","**Locating Specific Branch Hours**
+
+I've located the Արդշինբանկ data and pinpointed the ""ԲՅՈՒԶԱՆԴ"" branch. I've found its address, phone number and working hours. The working hours are listed, though the format needs a little cleaning to be fully usable.
+
+
+ **Confirming Branch Availability**
+
+I've extracted the Արդշինբանկ data for the ԲՅՈՒԶԱՆԴ branch and verified its Saturday hours: 09:00 to 21:00. Given the current time, I can confirm the branch is open now. I'm preparing a concise statement of the working hours, detailing weekdays and weekends separately.
+
+
+ **Summarizing Branch Details**
+
+The branch data is compiled. I'm organizing the working hours into a presentable summary. Weekdays are 09:00-22:00, weekends 09:00-21:00.  The branch is open right now. I plan to present the data concisely, adding the address and phone number. I'm reviewing the information to ensure accuracy.
+
+
+ **Presenting Branch Information**
+
+I'm now formulating the complete response. I have compiled all the information, including the address, phone number, and working hours, and I am putting this into a coherent format in Armenian. I will present the branch's details in a clear and easy-to-understand manner. I've re-checked the phone number format to be correct. I plan to finish and present a concise summary, including the current open status and the working hours for weekdays and weekends, in Armenian.
+
+
+ **Refining Branch Information**
+
+I'm now streamlining the response. I'm focusing solely on providing the weekday and weekend working hours of the Արդշինբանկի Բյուզանդ branch, omitting the address and phone number for brevity as requested. I've re-confirmed the branch is currently open. The final statement should be ready shortly.",17.56,8.45,437760,5,4,5,5,n/a,"The assistant provided a clear, grammatically correct, and concise answer directly addressing the user's query about branch working hours. The Armenian quality is excellent. Accuracy is rated 4 as the specific hours cannot be verified without external data, but the format and type of information provided are correct."
+37,branches,Արցախբանկի ո՞ր մասնաճյուղ կարող եմ դիմել:,"Արցախբանկի մասնաճյուղերից այսօր՝ շաբաթ օրը, գործում են Երևանի կենտրոնական և Հոմպլեքս մասնաճյուղերը։
+
+Երևանի կենտրոնական մասնաճյուղի հասցեն է՝ ՀՀ, Երևան զրո զրո երկու ութ, Կիևյան երեք, հեռախոս՝ պլյուս երեք յոթան չորս, տասներկու, երեսուն, յոթանասուն, զրո մեկ, երեսուն, յոթանասուն, զրո երկու, երեսուն, յոթանասուն, զրո երեք։ Աշխատանքային ժամերը շաբաթ օրը՝ տաս զրո զրո-ից տասնչորս զրո զրո։
+
+Հոմպլեքս մասնաճյուղը գտնվում է ՀՀ, Կոտայք, գ.Պռոշյան, Գ Չաուշի խճ. մեկ դռոբ քառասունութ հասցեով, հեռախոս՝ պլյուս երեք յոթան չորս, տասներկու, երեսուներկու, վաթսուն, զրո մեկ, երեսուներկու, վաթսուն, զրո երկու։ Այն աշխատում է երկուշաբթիից կիրակի՝ տասնմեկ զրո զրո-ից քսաներկու զրո զրո։","**Identifying Branch Locations**
+
+I'm currently working on identifying the relevant Artsakhbank branches. I need to filter the available branches based on the user's location request. Right now, I'm focusing on extracting location information, including addresses and contact details from the provided data. Considering the time, I'll need to check the working hours to determine which branches are currently open. I'll need to translate the user's question, too!
+
+
+ **Analyzing Branch Availability**
+
+I've translated the user's Armenian query and am now analyzing the Artsakhbank branches, focusing on their addresses, phone numbers, and working hours. It's Saturday, March 21, 2026, at 11:56 AM UTC. I need to filter based on current operational hours. Only the Yerevan Central Branch is open, and is in fact, currently open.
+
+
+ **Determining Branch Availability**
+
+I've got the Armenian query translated. Now, I'm cross-referencing the branch data with the current time (Saturday, 11:56 AM). I'm focusing on the ""working_hours"" to pinpoint the accessible branches. So far, the Yerevan Central Branch is the only one open and accessible to the user, since its working hours include today. I will provide the user the relevant details.
+
+
+ **Pinpointing Branch Accessibility**
+
+I'm identifying the most suitable Artsakhbank branch for the user based on their Armenian request. I have parsed the query and recognized the intent is to find the closest branch. I've translated the user's question, and I've analyzed the branch data to verify their working hours. I've cross-referenced the current time (Saturday, 11:56 AM) with the operational hours. The Yerevan Central Branch is the only option, as it's open until 2 PM today. I am almost ready to relay the relevant details.
+
+
+ **Identifying Accessible Branches**
+
+I've got the user's Armenian question and branch data. I'm cross-referencing the branch data (addresses, phones, working hours) with the current time (Saturday, 11:56 AM). I need to highlight the currently open branches, since that is most relevant. The Yerevan Central Branch and Homplex branch are both currently open.
+
+
+ **Listing Available Branches**
+
+I've analyzed the query in Armenian and the bank branch data, noting today is Saturday, March 21, 2026 at 11:56 AM UTC. Currently, the ""Երևանի կենտրոնական մասնաճյուղ"" (+374 12 307001, 307002, 307003) and ""Հոմպլեքս մասնաճյուղ"" (+374 12 326001, 326002) are open. I'm ready to present these details.
+
+
+ **Listing Available Branches**
+
+I've analyzed the Armenian query, the branch data, and current time (Saturday, 11:56 AM). I have two branches open today: ""Երևանի կենտրոնական մասնաճյուղ,"" with address: ՀՀ, Երևան 0028, Կիևյան 3, phone: +374 12 307001, 307002, 307003 and ""Հոմպլեքս մասնաճյուղ"" with address: ՀՀ, Կոտայք, գ. Պռոշյան, phone: +374 12 326001, 326002.
+
+
+ **Identifying Open Branches**
+
+I've got the user's Armenian question and am analyzing branch availability based on today's time. I've pinpointed that ""Երևանի կենտրոնական մասնաճյուղ"" (+374 12 30 70 01, etc.) and ""Հոմպլեքս մասնաճյուղ"" (+374 12 32 60 01, etc.) are open. I'll provide these details concisely.
+
+
+ **Identifying Open Branches**
+
+I've analyzed the Armenian query, the available Artsakhbank branch data, and the current time (Saturday, 11:56 AM). I'm focusing on the branches open *today* to meet the user's needs. I have the location data, including working hours, and the address and phone numbers for each of the branches. I am ready to provide this information concisely.
+
+
+
+ **Listing Open Branches**
+
+I've analyzed the Armenian query, the provided Artsakhbank data, and the current time (Saturday, 11:56 AM). I've found two branches open today: the Yerevan Central Branch and the Homplex Branch. I will provide their addresses and phone numbers following the specified format. The data has been cross-referenced, I am confident in providing this information.
+
+ **Confirming Open Branches**
+
+I've carefully analyzed the user's Armenian query and cross-referenced it with the Artsakhbank branch data. My focus has been on branches open *today*, which is Saturday, March 21, 2026, at 11:56 AM UTC. I have translated the query and confirmed that two branches are currently available. I'm ready to list their details.
+
+
+
+ **Listing Currently Open Branches**
+
+I'm translating the user's Armenian inquiry and examining the provided Artsakhbank data, focused on current accessibility (Saturday, 11:56 AM). I'm verifying branch hours, translating addresses, and formatting phone numbers following instructions. I will list two branches and their data.
+
+
+
+ **Providing Branch Data**
+
+I have analyzed the user's Armenian query and the Artsakhbank branch data, considering the current time. I've pinpointed the Yerevan Central and Homplex branches are open today. I'm formatting the information with addresses, phone numbers read in pairs, and working hours for each branch, ready to provide the full details.",71.38,17.89,2568960,5,4,5,3,n/a,"The answer is highly relevant, correctly identifying operating branches for the specified day and providing comprehensive details (address, phone, hours) for each. The Armenian quality is excellent. However, the extensive enumeration of address components and phone digits, while thorough, might be a bit too much detail to process and recall for a purely voice-based interaction without an explicit prompt for all details."
+38,branches,Ո՞ր ժամին է բացվում Արդշինբանկի Էրազ մասնաճյուղը:,"Արդշինբանկի ""ԵՐԱԶ"": Աշխատանքային ժամերն են՝ երկուշաբթիից կիրակի՝ 09:15-ից 20:45:","**Locating Branch Information**
+
+I've pinpointed the relevant branch, ""ԵՐԱԶ,"" within the Ardshinbank data. I've successfully extracted its address (Ադոնցի 6, շինություն 334) and working hours: Monday through Sunday, 09:15-20:45. This should provide the information requested.
+
+
+ **Clarifying Opening Hours**
+
+I have confirmed that the ""ԵՐԱԶ"" branch's working hours are Monday to Sunday, 09:15 to 20:45. Therefore, it opens at 09:15 daily. I will present the working hours to ensure context and clarity when communicating this information.",14.07,4.15,476160,5,5,5,5,n/a,The assistant directly and accurately answered the question about the branch's opening hours. The Armenian is natural and grammatically correct.
+39,branches,Արդշինբանկի Աղասյան մասնաճյուղի հեռախոսահամարը ո՞րն է:,"Արդշինբանկի Աղասյան տասներկու, քսաներկու, քսաներկու, քսաներկու։","**Locating Phone Numbers**
+
+I've successfully identified the ""ԱՂԱՍՅԱՆ"" branch within the Ardshinbank data. I am pleased to confirm I located the pertinent phone number: +374 12 22 22 22.
+
+
+ **Confirming Aghasyan Branch Details**
+
+The provided data confirmed the ""ԱՂԱՍՅԱՆ"" branch is located at Abovyan 27. The phone number, as previously identified, is +374 12 22 22 22. My next step involves verifying the pronunciation of the phone number based on the given rules. It looks like it should be read ""պլյուս երեք յոթան չորս, տասներկու, քսաներկու, քսաներկու, քսաներկու.""
+
+
+ **Verifying Data Integrity**
+
+I have re-examined the pronunciation rule for phone numbers, leading to a minor adjustment in how I read the number. Specifically, +374 12 22 22 22 is ""պլյուս երեք յոթան չորս, տասներկու, քսաներկու, քսաներկու, քսաներկու"". I am now confident in the accuracy of the identified information and its corresponding Armenian pronunciation.",13.9,5.11,422400,4,1,5,5,n/a,"The assistant understood the question and provided a grammatically correct and concise answer in Armenian. However, the phone number provided (12222222) is highly unlikely to be an actual, valid phone number for a bank branch, suggesting a significant factual inaccuracy."
+40,out_of_scope,Ինչքա՞ն է դոլարի փոխարժեքը այսօր:,"Ցավոք սրտի, ես կարող եմ օգնել միայն Արդշինբանկի, Արցախբանկի և Mellat Bank-ի ծառայությունների մասին հարցերով։ Տվյալ պահին փոխարժեքների տվյալներ իմ մոտ չկան։","**Clarifying Question Scope**
+
+Ես հասկացա հարցը դոլարի փոխարժեքի մասին է։ Սակայն, իմ տվյալները սահմանափակվում են միայն Արդշինբանկի, Արցախբանկի և Մելլատ բանկի ծառայություններով։ Հետևաբար, ես չեմ կարող պատասխանել փոխարժեքի մասին հարցին, քանի որ այն չի վերաբերում իմ տվյալներին։",14.39,3.65,518400,5,5,5,5,pass,"The assistant correctly identified the question as out-of-scope, politely refused, and clearly stated its limitations regarding both the scope of banks it supports and its data availability. The Armenian is natural and grammatically perfect."
+41,out_of_scope,Կարո՞ղ ես պիցցա պատվիրել:,"Ես կարող եմ կապված Արդշինբանկի, Արցախբանկի կամ Mellat Bankի հետ բանկային հարցերով միայն օգնել։ Պիցցա պատվիրել չեմ կարող։","**Addressing the Request**
+
+I've processed the user's request for pizza ordering. It's a simple, unrelated query, which means I should respond that I'm only equipped to answer banking questions about Ardshinbank, Artsakhbank, and Mellat Bank. I need to do so politely and in Armenian. Now I just need to formulate my response!",11.45,3.02,405120,5,5,5,5,pass,"The assistant correctly identified the out-of-scope request, clearly refused, and properly stated its domain of expertise in a natural and concise manner."
+42,out_of_scope,Ինչ եղանակ է այսօր:,"Ես կարող եմ օգնել միայն Արդշինբանկի, Արցախբանկի և Mellat Bank-ի բանկային ծառայությունների վերաբերյալ հարցերով։","**Addressing the Inquiries**
+
+I've just received a question about the weather, but, unfortunately, I am unable to address it. I am programmed to handle only banking-related inquiries for Ardshinbank, Artsakhbank, and Mellat Bank. I responded politely in Armenian, pointing out my limitations, focusing on these banks' services.",9.71,3.35,307200,5,5,5,5,pass,"The assistant correctly identified the question as out of scope and provided a clear and concise refusal, outlining its operational boundaries."
+43,out_of_scope,Կարո՞ղ ես բժշկի բաղադրատոմս ասել:,"Ես կարող եմ օգնել միայն Արդշինբանկի, Արցախբանկի և Mellat Bank-ի բանկային ծառայությունների վերաբերյալ հարցերում։","**Declining Unrelated Requests**
+
+I've determined the user is seeking a doctor's prescription, which falls outside my expertise. I'm focusing on crafting a polite decline, adhering to Rule 2. My response will emphasize my ability to assist solely with banking inquiries concerning Ardshinbank, Artsakhbank, and Mellat Bank in Armenian. The response, ""Ես կարող եմ օգնել միայն Արդշինբանկի, Արցախբանկի և Mellat Bank-ի բանկային ծառայությունների վերաբերյալ հարցերում։"" (Yes karogh em ognel miayn Ardshinbanki, Artsakhbanki ev Mellat Bank-i bankayin tsarayutyunneri veraberyal hartserum.) is ready.",10.22,3.35,330240,5,5,5,5,pass,"The assistant correctly identified the question as out-of-scope and provided a clear, concise, and grammatically correct refusal, stating its specific domain of banking services for the listed banks."
+44,out_of_scope,Ո՞վ է Հայաստանի նախագահը:,"Ես կարող եմ օգնել միայն Արդշինբանկի, Արցախբանկի և Մելլաթ Բանկի բանկային ծառայությունների վերաբերյալ հարցերում։","**Declining the Request**
+
+I've processed the user's question, which doesn't pertain to banking. My analysis confirms this is outside my scope – it's about the Armenian President, not Ardshinbank, Artsakhbank, or Mellat Bank. Following the rules, I've crafted a polite Armenian response, focusing on the limitation to banking inquiries related to these specific banks.",9.76,3.22,314880,5,5,5,5,pass,"The assistant correctly identified the question as out of scope and provided an appropriate, concise refusal in natural Armenian, clearly stating its operational boundaries."
+45,out_of_scope,ԱՄԵՆԱ-ն ինչ վարկեր ունի՞:,"Ես կարող եմ տրամադրել տեղեկատվություն միայն Արդշինբանկի, Արցախբանկի և Mellat Bankի վերաբերյալ։","**Analyzing Loan Support**
+
+I've determined that ""ԱՄԵՆԱ"" is not a supported bank for loan information. Following the established rule, I'm now formulating a polite response in Armenian, clarifying that I can only provide details on Ardshinbank, Artsakhbank, and Mellat Bank. The Armenian response is almost ready.",8.75,2.36,307200,5,5,5,5,pass,"The assistant correctly identified the query about 'AMENA' as out of scope and politely refused, stating its limitations and the banks it supports. The Armenian is natural and grammatically correct, and the response is concise."
+46,out_of_scope,Կարո՞ղ ես ինձ համար կրիպտովալյուտա գնել:,"Ես կարող եմ օգնել միայն Արդշինբանկի, Արցախբանկի և Mellat Bank-ի բանկային ծառայությունների հետ կապված հարցերում։ Կրիպտովալյուտա գնելու ծառայություն ես չեմ կարող առաջարկել։","**Declining The Request**
+
+Ես կարող եմ օգնել միայն Արդշինբանկի, Արցախբանկի և Մելլաթ Բանկի բանկային ծառայություններին վերաբերող հարցերում։ Քանի որ կրիպտովալյուտա գնելը այդ բանկերի կողմից մատուցվող ծառայությունների մեջ չէ, ես չեմ կարող օգնել։
+
+
+ **Defining My Response**
+
+I've determined the user is asking about buying cryptocurrency, which falls outside my area of expertise—banking for Ardshinbank, Artsakhbank, and Mellat Bank. I need to politely decline the request, as this isn't a service I can provide. My response will emphasize my limitations, highlighting the specific banks and services I cover.",14.2,3.97,491520,5,5,5,5,pass,"The assistant correctly identified the request as out-of-scope, clearly stated its operational boundaries (supported banks and services), and explicitly refused to perform the unsupported task. The Armenian is natural and concise."
+47,out_of_scope,Ինչպե՞ս կարող եմ ապահովագրական պոլիս ձեռք բերել:,"Ես կարող եմ Ձեզ օգնել միայն Արդշինբանկի, Արցախբանկի և Mellat Bank-ի բանկային ծառայությունների վերաբերյալ հարցերում։","**Addressing the Armenian Query**
+
+I've carefully considered the user's Armenian inquiry about obtaining an insurance policy. My analysis confirms the question falls outside my knowledge base, which is limited to Ardshinbank, Artsakhbank, and Mellat Bank's banking services. Per my operational rules, I must respond in Armenian, politely declining to address the query. I am prepared to state I can only assist with banking-related questions specific to these three institutions.
+
+
+ **Refining the Response**
+
+I've formulated a concise Armenian response, declining assistance with the insurance question. My programming requires me to address only bank-related queries for Ardshinbank, Artsakhbank, and Mellat Bank. I'm ready to explain that I'm limited to these three banks. I can now properly generate an Armenian response.",11.93,4.78,351360,5,5,5,5,pass,"The assistant correctly identified the question as out of scope and provided a clear, concise, and natural Armenian refusal, stating its capabilities."
+48,out_of_scope,Ինչ թեմայով կոնցերտներ կան Երևանում:,"Ես կարող եմ օգնել միայն Արդշինբանկի, Արցախբանկի և Մելլաթ Բանկի բանկային ծառայությունների վերաբերյալ հարցերով։","**Addressing the Request**
+
+I've processed the user's question about concerts in Yerevan. I recognize it falls outside my area of expertise, which is strictly banking services for Ardshinbank, Artsakhbank, and Mellat Bank. I've formulated a polite Armenian response, adhering to conversational style and correct pronunciation, to let the user know I can only assist with banking-related inquiries.",10.29,3.25,337920,5,5,5,5,pass,The assistant correctly identified the question as out of scope and clearly articulated its limitations in natural and concise Armenian.
+49,out_of_scope,Կարո՞ղ ես ինձ օգնել ռեզյումեի հարցում:,"Ես կարող եմ օգնել միայն Արդշինբանկի, Արցախբանկի և Mellat Bankի բանկային ծառայությունների մասին հարցերում։ Ռեզյումեի հարցով, ցավոք, չեմ կարող օգնել։","**Declining Resume Requests**
+
+I've determined I can't assist with this resume inquiry, as it falls outside my scope. Per the guidelines, my focus remains strictly on banking information for Ardshinbank, Artsakhbank, and Mellat Bank. I must politely inform the user that their request is outside my area of expertise. I am ready to fulfill requests on banking information about the specific banks, should it be desired.",13.21,3.58,462720,5,5,5,5,pass,"The assistant correctly identified the question as out-of-scope, politely refused, and clearly stated its operational scope. The Armenian is natural and grammatically perfect."
+50,deposits,Արդշինբանկում կուտակային ավանդ կա՞:,Ըստ տրամադրված տվյալների՝ Արդշինբանկում կուտակային ավանդի մասին տեղեկություն չկա։ «Կուտակային» ավանդ առաջարկում է «Արցախբանկը»։,"**Analyzing Deposit Options**
+
+I've examined the Ardshinbank data within the `BANKING DATA`. I focused specifically on the ""Արդշինբանկ"" section and its listed deposit options. While various term deposits are listed, I haven't found an explicitly named ""Կուտակային ավանդ"" (""Cumulative Deposit"") among them, so it does not seem to be offered, as far as the current data indicates.",11.07,3.47,366720,5,4,5,5,n/a,The assistant directly answers the question about Ardshinbank and then provides a helpful alternative from another bank. The Armenian is natural and grammatically correct. Accuracy is assumed based on the statement 'Ըստ տրամադրված տվյալների'.

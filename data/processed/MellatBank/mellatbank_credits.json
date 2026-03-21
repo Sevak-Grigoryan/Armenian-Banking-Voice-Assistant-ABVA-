@@ -1,0 +1,138 @@
+[
+  {
+    "id": "mellatbank_credits_001",
+    "bank_name": "Mellat Bank",
+    "topic": "credits",
+    "subcategory": "general",
+    "title": "Հիփոթեքային վարկ",
+    "content": "Հիփոթեքային վարկ\nՏունն այնտեղ է, որտեղ Ձեր ընտանիքն է:\nՄելլաթ բանկը տրամադրում է ցածր տոկոսադրույքով հիփոթեքային վարկեր անշարժ գույքի ձեռքբերման և կառուցապատման համար հետևյալ պայմաններով։\nAMD\nՎԱՐԿԻ ԳՈՒՄԱՐԸ ՄԻՆՉԵՎ\n250.000.000\nԺԱՄԿԵՏ\n12-240 Ամիս\nՏՈԿՈՍԱԴՐՈՒՅՔ %\n12-15%\nավելի մանրամասն",
+    "metadata": {
+      "currency": "AMD",
+      "max_amount": "250.000.000",
+      "term": "12-240 Ամիս",
+      "interest_rate": "12-15%"
+    },
+    "source_url": "https://mellatbank.am/hy/loans_individual",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "mellatbank_credits_002",
+    "bank_name": "Mellat Bank",
+    "topic": "credits",
+    "subcategory": "general",
+    "title": "Վերանորոգման վարկ",
+    "content": "Վերանորոգման վարկ\nՍտեղծելով ավելի հարմարավետ պայմաններ ապրելու համար։\nՄելլաթ բանկը տրամադրում է անշարժ գույքի վերանորոգման և վերակառուցման վարկ հետևյալ պայմաններով։\nAMD\nՎԱՐԿԻ ԳՈՒՄԱՐԸ ՄԻՆՉԵՎ\n150.000.000\nԺԱՄԿԵՏ\n12-180 Ամիս\nՏՈԿՈՍԱԴՐՈՒՅՔ %\n13-15%\nավելի մանրամասն",
+    "metadata": {
+      "currency": "AMD",
+      "max_amount": "150.000.000",
+      "term": "12-180 Ամիս",
+      "interest_rate": "13-15%"
+    },
+    "source_url": "https://mellatbank.am/hy/loans_individual",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "mellatbank_credits_003",
+    "bank_name": "Mellat Bank",
+    "topic": "credits",
+    "subcategory": "general",
+    "title": "Ուսանողական վարկ",
+    "content": "Ուսանողական վարկ\nՆերդրում Ձեր ապագայի համար։\nՄելլաթ բանկն առաջարկում է ուսանողական վարկ՝ կրթական ծախսերը հոգալու համար։\nAMD\nՎԱՐԿԻ ԳՈՒՄԱՐԸ ՄԻՆՉԵՎ\n800.000\nԺԱՄԿԵՏ\n6-24 Ամիս\nՏՈԿՈՍԱԴՐՈՒՅՔ %\n17-18%\nավելի մանրամասն",
+    "metadata": {
+      "currency": "AMD",
+      "max_amount": "800.000",
+      "term": "6-24 Ամիս",
+      "interest_rate": "17-18%"
+    },
+    "source_url": "https://mellatbank.am/hy/loans_individual",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "mellatbank_credits_004",
+    "bank_name": "Mellat Bank",
+    "topic": "credits",
+    "subcategory": "general",
+    "title": "Ավտովարկ",
+    "content": "Ավտովարկ\nԱնցեք ճանապարհը հարմարավետ։\nՄելլաթ բանկն առաջարկում է ավտոմեքենայի վարկ ձեր հարմարավետության համար:\nAMD\nՎԱՐԿԻ ԳՈՒՄԱՐԸ ՄԻՆՉԵՎ\n12.000.000\nԺԱՄԿԵՏ\n12-60 Ամիս\nՏՈԿՈՍԱԴՐՈՒՅՔ %\n16-18%\nավելի մանրամասն",
+    "metadata": {
+      "currency": "AMD",
+      "max_amount": "12.000.000",
+      "term": "12-60 Ամիս",
+      "interest_rate": "16-18%"
+    },
+    "source_url": "https://mellatbank.am/hy/loans_individual",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "mellatbank_credits_005",
+    "bank_name": "Mellat Bank",
+    "topic": "credits",
+    "subcategory": "general",
+    "title": "Արագ սպառողական վարկ",
+    "content": "Արագ սպառողական վարկ\nԱմեն պահի Ձեր կողքին։\nԱրագ սպառողական վարկեր Մելլաթ բանկից՝ առանց գրավի, մեկ երաշխավորությամբ։\nAMD\nՎԱՐԿԻ ԳՈՒՄԱՐԸ ՄԻՆՉԵՎ\n3.000.000\nԺԱՄԿԵՏ\n1-36 Ամիս\nՏՈԿՈՍԱԴՐՈՒՅՔ %\n14%\nավելի մանրամասն",
+    "metadata": {
+      "currency": "AMD",
+      "max_amount": "3.000.000",
+      "term": "1-36 Ամիս",
+      "interest_rate": "14%"
+    },
+    "source_url": "https://mellatbank.am/hy/loans_individual",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "mellatbank_credits_006",
+    "bank_name": "Mellat Bank",
+    "topic": "credits",
+    "subcategory": "general",
+    "title": "\"Արտոնյալ\" վարկ",
+    "content": "\"Արտոնյալ\" վարկ\nՄեզ հետ արտոնյալ հնարավորություններ են։\nՄելլաթ բանկը պետական կազմակերպությունների աշխատակիցներին է առաջարկում աշխատավարձով ապահովված վարկեր։\nAMD\nՎԱՐԿԻ ԳՈՒՄԱՐԸ ՄԻՆՉԵՎ\n5.000.000\nԺԱՄԿԵՏ\n6-48 Ամիս\nՏՈԿՈՍԱԴՐՈՒՅՔ %\n14-16%\nավելի մանրամասն",
+    "metadata": {
+      "currency": "AMD",
+      "max_amount": "5.000.000",
+      "term": "6-48 Ամիս",
+      "interest_rate": "14-16%"
+    },
+    "source_url": "https://mellatbank.am/hy/loans_individual",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "mellatbank_credits_007",
+    "bank_name": "Mellat Bank",
+    "topic": "credits",
+    "subcategory": "general",
+    "title": "Անշարժ գույքի գրավադրմամբ սպառողական վարկ (եկամտի հիմնավորմամբ)",
+    "content": "Անշարժ գույքի գրավադրմամբ սպառողական վարկ (եկամտի հիմնավորմամբ)\nՄելլաթ բանկն առաջարկում է հասանելի պայմաններով անշարժ գույքի գրավադրմամբ սպառողական վարկ՝ հիմնավորված եկամուտներով։\nAMD\nՎԱՐԿԻ ԳՈՒՄԱՐԸ ՄԻՆՉԵՎ\n60.000.000\nԺԱՄԿԵՏ\n12-120 Ամիս\nՏՈԿՈՍԱԴՐՈՒՅՔ %\n14-16%\nավելի մանրամասն",
+    "metadata": {
+      "currency": "AMD",
+      "max_amount": "60.000.000",
+      "term": "12-120 Ամիս",
+      "interest_rate": "14-16%"
+    },
+    "source_url": "https://mellatbank.am/hy/loans_individual",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "mellatbank_credits_008",
+    "bank_name": "Mellat Bank",
+    "topic": "credits",
+    "subcategory": "general",
+    "title": "Անշարժ գույքի գրավադրմամբ սպառողական վարկ (առանց եկամտի հիմնավորման)",
+    "content": "Անշարժ գույքի գրավադրմամբ սպառողական վարկ (առանց եկամտի հիմնավորման)\nՄելլաթ բանկն առաջարկում է հասանելի պայմաններով անշարժ գույքի գրավադրմամբ սպառողական վարկ (առանց եկամտի հիմնավորման)։\nAMD\nՎԱՐԿԻ ԳՈՒՄԱՐԸ ՄԻՆՉԵՎ\n30.000.000\nԺԱՄԿԵՏ\n12-84 Ամիս\nՏՈԿՈՍԱԴՐՈՒՅՔ %\n15-17%\nավելի մանրամասն",
+    "metadata": {
+      "currency": "AMD",
+      "max_amount": "30.000.000",
+      "term": "12-84 Ամիս",
+      "interest_rate": "15-17%"
+    },
+    "source_url": "https://mellatbank.am/hy/loans_individual",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  }
+]

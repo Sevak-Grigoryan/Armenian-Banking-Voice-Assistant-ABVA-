@@ -1,0 +1,164 @@
+[
+  {
+    "id": "artsakhbank_branches_001",
+    "bank_name": "Artsakhbank",
+    "topic": "branches",
+    "subcategory": "branch",
+    "title": "Գլխամասային գրասենյակ",
+    "content": "Գլխամասային գրասենյակ\nՀՀ, Երևան 0025, Չարենցի 1բ\n+374 60 747769, 747779\ninfo@artsakhbank.am\nԵրկուշաբթի - Ուրբաթ` 09:00 - 18:00",
+    "metadata": {
+      "հասցե": "ՀՀ, Երևան 0025, Չարենցի 1բ",
+      "հեռախոս": "+374 60 747769, 747779",
+      "էլ_հասցե": "info@artsakhbank.am",
+      "քաղաք": "Երևան",
+      "աշխատաժամեր": "Երկուշաբթի - Ուրբաթ` 09:00 - 18:00"
+    },
+    "source_url": "https://www.artsakhbank.am/map-and-branches",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "artsakhbank_branches_002",
+    "bank_name": "Artsakhbank",
+    "topic": "branches",
+    "subcategory": "branch",
+    "title": "Չարենց մասնաճյուղ",
+    "content": "Չարենց մասնաճյուղ\nՀՀ, Երևան 0025, Չարենցի 1բ շենք, 1/2\n+374 12 325001, 325002\ncharents@artsakhbank.am\nԵրկուշաբթի - Ուրբաթ` 09:30 - 17:00",
+    "metadata": {
+      "հասցե": "ՀՀ, Երևան 0025, Չարենցի 1բ շենք, 1/2",
+      "հեռախոս": "+374 12 325001, 325002",
+      "էլ_հասցե": "charents@artsakhbank.am",
+      "քաղաք": "Երևան",
+      "աշխատաժամեր": "Երկուշաբթի - Ուրբաթ` 09:30 - 17:00"
+    },
+    "source_url": "https://www.artsakhbank.am/map-and-branches",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "artsakhbank_branches_003",
+    "bank_name": "Artsakhbank",
+    "topic": "branches",
+    "subcategory": "branch",
+    "title": "Երևանի կենտրոնական մասնաճյուղ",
+    "content": "Երևանի կենտրոնական մասնաճյուղ\nՀՀ, Երևան 0028, Կիևյան 3\n+374 12 307001, 307002, 307003\nyerevancentral@artsakhbank.am\nԵրկուշաբթի - Ուրբաթ` 09:30 - 17:00\nՇաբաթ: 10:00 - 14:00",
+    "metadata": {
+      "հասցե": "ՀՀ, Երևան 0028, Կիևյան 3",
+      "հեռախոս": "+374 12 307001, 307002, 307003",
+      "էլ_հասցե": "yerevancentral@artsakhbank.am",
+      "քաղաք": "Երևան",
+      "աշխատաժամեր": "Երկուշաբթի - Ուրբաթ` 09:30 - 17:00 | Շաբաթ: 10:00 - 14:00"
+    },
+    "source_url": "https://www.artsakhbank.am/map-and-branches",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "artsakhbank_branches_004",
+    "bank_name": "Artsakhbank",
+    "topic": "branches",
+    "subcategory": "branch",
+    "title": "Խորենացի մասնաճյուղ",
+    "content": "Խորենացի մասնաճյուղ\nՀՀ, Երևան 0015, Խորենացի փող. 7 շենք, 1 տարածք\n+374 12 313001, 313002\nkhorenatsi@artsakhbank.am\nԵրկուշաբթի - Ուրբաթ` 09:30 - 17:00",
+    "metadata": {
+      "հասցե": "ՀՀ, Երևան 0015, Խորենացի փող. 7 շենք, 1 տարածք",
+      "հեռախոս": "+374 12 313001, 313002",
+      "էլ_հասցե": "khorenatsi@artsakhbank.am",
+      "քաղաք": "Երևան",
+      "աշխատաժամեր": "Երկուշաբթի - Ուրբաթ` 09:30 - 17:00"
+    },
+    "source_url": "https://www.artsakhbank.am/map-and-branches",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "artsakhbank_branches_005",
+    "bank_name": "Artsakhbank",
+    "topic": "branches",
+    "subcategory": "branch",
+    "title": "Տիգրան Մեծ մասնաճյուղ",
+    "content": "Տիգրան Մեծ մասնաճյուղ\nՀՀ, Երևան 0010, Հանրապետության 37\n+374 12 314001, 314002\ntigranmets@artsakhbank.am\nԵրկուշաբթի - Ուրբաթ` 09:30 - 17:00",
+    "metadata": {
+      "հասցե": "ՀՀ, Երևան 0010, Հանրապետության 37",
+      "հեռախոս": "+374 12 314001, 314002",
+      "էլ_հասցե": "tigranmets@artsakhbank.am",
+      "քաղաք": "Երևան",
+      "աշխատաժամեր": "Երկուշաբթի - Ուրբաթ` 09:30 - 17:00"
+    },
+    "source_url": "https://www.artsakhbank.am/map-and-branches",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "artsakhbank_branches_006",
+    "bank_name": "Artsakhbank",
+    "topic": "branches",
+    "subcategory": "branch",
+    "title": "Նաիրի մասնաճյուղ",
+    "content": "Նաիրի մասնաճյուղ\nՀՀ, Երևան 0001, Սայաթ-Նովա պող., 10/1\n+374 12 317001, 317002\nnairi@artsakhbank.am\nԵրկուշաբթի - Ուրբաթ` 09:30 - 17:00",
+    "metadata": {
+      "հասցե": "ՀՀ, Երևան 0001, Սայաթ-Նովա պող., 10/1",
+      "հեռախոս": "+374 12 317001, 317002",
+      "էլ_հասցե": "nairi@artsakhbank.am",
+      "քաղաք": "Երևան",
+      "աշխատաժամեր": "Երկուշաբթի - Ուրբաթ` 09:30 - 17:00"
+    },
+    "source_url": "https://www.artsakhbank.am/map-and-branches",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "artsakhbank_branches_007",
+    "bank_name": "Artsakhbank",
+    "topic": "branches",
+    "subcategory": "branch",
+    "title": "Րաֆֆի մասնաճյուղ",
+    "content": "Րաֆֆի մասնաճյուղ\nՀՀ, Երևան 0004, Րաֆֆու 29/5\n+374 12 322001, 322002\nraffi@artsakhbank.am\nԵրկուշաբթի - Ուրբաթ` 09:30 - 17:00",
+    "metadata": {
+      "հասցե": "ՀՀ, Երևան 0004, Րաֆֆու 29/5",
+      "հեռախոս": "+374 12 322001, 322002",
+      "էլ_հասցե": "raffi@artsakhbank.am",
+      "քաղաք": "Երևան",
+      "աշխատաժամեր": "Երկուշաբթի - Ուրբաթ` 09:30 - 17:00"
+    },
+    "source_url": "https://www.artsakhbank.am/map-and-branches",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "artsakhbank_branches_008",
+    "bank_name": "Artsakhbank",
+    "topic": "branches",
+    "subcategory": "branch",
+    "title": "Գարեգին Նժդեհ մասնաճյուղ",
+    "content": "Գարեգին Նժդեհ մասնաճյուղ\nՀՀ, Երևան 0039, Բագրատունյաց 14\n+374 12 323001, 323002\ngareginnzhdeh@artsakhbank.am\nԵրկուշաբթի - Ուրբաթ` 09:30 - 17:00",
+    "metadata": {
+      "հասցե": "ՀՀ, Երևան 0039, Բագրատունյաց 14",
+      "հեռախոս": "+374 12 323001, 323002",
+      "էլ_հասցե": "gareginnzhdeh@artsakhbank.am",
+      "քաղաք": "Երևան",
+      "աշխատաժամեր": "Երկուշաբթի - Ուրբաթ` 09:30 - 17:00"
+    },
+    "source_url": "https://www.artsakhbank.am/map-and-branches",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  },
+  {
+    "id": "artsakhbank_branches_009",
+    "bank_name": "Artsakhbank",
+    "topic": "branches",
+    "subcategory": "branch",
+    "title": "Հոմպլեքս մասնաճյուղ",
+    "content": "Հոմպլեքս մասնաճյուղ\nՀՀ, Կոտայք, գ.Պռոշյան, Գ Չաուշի խճ. 1/48 (Homplex Հիպեր Մոլ)\n+374 12 326001, 326002\nhomplex@artsakhbank.am\nԵրկուշաբթի - Կիրակի: 11:00 - 22:00\nՄասնաճյուղեր\nՀաշվետվություններ\nՕտարվող գույք\nԳործընկերներ\nՆորություններ\nԱշխատանք",
+    "metadata": {
+      "հասցե": "ՀՀ, Կոտայք, գ.Պռոշյան, Գ Չաուշի խճ. 1/48 (Homplex Հիպեր Մոլ)",
+      "հեռախոս": "+374 12 326001, 326002",
+      "էլ_հասցե": "homplex@artsakhbank.am",
+      "քաղաք": "Կոտայք",
+      "աշխատաժամեր": "Երկուշաբթի - Կիրակի: 11:00 - 22:00"
+    },
+    "source_url": "https://www.artsakhbank.am/map-and-branches",
+    "language": "hy",
+    "scraped_at": "2026-03-18"
+  }
+]
